@@ -1,0 +1,32 @@
+[0.477s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools -- -j12 -l12
+[0.793s] [ 50%] [32mBuilding CXX object CMakeFiles/tf_rebroadcaster.dir/src/tf_rebroadcaster.cpp.o[0m
+[22.723s] [100%] [32m[1mLinking CXX shared library libtf_rebroadcaster.so[0m
+[24.052s] [100%] Built target tf_rebroadcaster
+[24.088s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools -- -j12 -l12
+[24.095s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools
+[24.115s] -- Install configuration: ""
+[24.117s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/lib/libtf_rebroadcaster.so
+[24.136s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/lib/libtf_rebroadcaster.so" to ""
+[24.136s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/lib/interbotix_tf_tools/static_trans_pub.py
+[24.136s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools//config
+[24.136s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools//config/tf_rebroadcaster.yaml
+[24.136s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools//launch
+[24.137s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools//launch/static_transform_pub.launch.py
+[24.137s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools//launch/tf_rebroadcaster.launch.py
+[24.137s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/ament_index/resource_index/package_run_dependencies/interbotix_tf_tools
+[24.137s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/ament_index/resource_index/parent_prefix_path/interbotix_tf_tools
+[24.137s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/environment/ament_prefix_path.sh
+[24.138s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/environment/ament_prefix_path.dsv
+[24.138s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/environment/path.sh
+[24.138s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/environment/path.dsv
+[24.138s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/local_setup.bash
+[24.138s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/local_setup.sh
+[24.139s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/local_setup.zsh
+[24.139s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/local_setup.dsv
+[24.139s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/package.dsv
+[24.139s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/ament_index/resource_index/packages/interbotix_tf_tools
+[24.140s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/ament_index/resource_index/rclcpp_components/interbotix_tf_tools
+[24.140s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/cmake/interbotix_tf_toolsConfig.cmake
+[24.140s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/cmake/interbotix_tf_toolsConfig-version.cmake
+[24.140s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_tf_tools/share/interbotix_tf_tools/package.xml
+[24.145s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_tf_tools

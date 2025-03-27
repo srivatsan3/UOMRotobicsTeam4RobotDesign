@@ -1,0 +1,82 @@
+[0.032s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_gravity_compensation -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation
+[0.166s] -- The C compiler identification is GNU 11.4.0
+[0.319s] -- The CXX compiler identification is GNU 11.4.0
+[0.337s] -- Detecting C compiler ABI info
+[0.503s] -- Detecting C compiler ABI info - done
+[0.517s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.518s] -- Detecting C compile features
+[0.518s] -- Detecting C compile features - done
+[0.524s] -- Detecting CXX compiler ABI info
+[0.697s] -- Detecting CXX compiler ABI info - done
+[0.710s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.710s] -- Detecting CXX compile features
+[0.711s] -- Detecting CXX compile features - done
+[0.718s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.111s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.340s] -- Found interbotix_xs_msgs: 0.0.0 (/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake)
+[1.449s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.468s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.492s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.514s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.543s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.672s] -- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+[1.693s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.695s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.696s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.702s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.763s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.768s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.031s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.087s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.212s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.239s] -- Looking for pthread.h
+[2.426s] -- Looking for pthread.h - found
+[2.427s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.578s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.583s] -- Found Threads: TRUE  
+[2.657s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[2.688s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[2.707s] -- Found yaml_cpp_vendor: 8.0.2 (/opt/ros/humble/share/yaml_cpp_vendor/cmake)
+[2.718s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.866s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.873s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.873s] -- Configured cppcheck include dirs: /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_gravity_compensation/include
+[2.873s] -- Configured cppcheck exclude dirs and/or files: 
+[2.876s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.876s] -- Configured cpplint exclude dirs and/or files: 
+[2.879s] -- Added test 'lint_cmake' to check CMake code style
+[2.884s] -- Added test 'uncrustify' to check C / C++ code style
+[2.884s] -- Configured uncrustify additional arguments: 
+[2.886s] -- Added test 'xmllint' to check XML markup files
+[2.892s] -- Configuring done
+[2.922s] -- Generating done
+[2.934s] -- Build files have been written to: /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation
+[2.962s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_gravity_compensation -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation
+[2.968s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation -- -j12 -l12
+[3.072s] [ 33%] [32mBuilding CXX object CMakeFiles/interbotix_gravity_compensation.dir/src/interbotix_gravity_compensation_node.cpp.o[0m
+[3.076s] [ 66%] [32mBuilding CXX object CMakeFiles/interbotix_gravity_compensation.dir/src/interbotix_gravity_compensation.cpp.o[0m
+[30.378s] [100%] [32m[1mLinking CXX executable interbotix_gravity_compensation[0m
+[31.137s] [100%] Built target interbotix_gravity_compensation
+[31.158s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation -- -j12 -l12
+[31.161s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation
+[31.176s] -- Install configuration: ""
+[31.177s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/lib/interbotix_gravity_compensation/interbotix_gravity_compensation
+[31.186s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/lib/interbotix_gravity_compensation/interbotix_gravity_compensation" to ""
+[31.186s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/config
+[31.187s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/config/motor_specs_example.yaml
+[31.187s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/ament_index/resource_index/package_run_dependencies/interbotix_gravity_compensation
+[31.187s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/ament_index/resource_index/parent_prefix_path/interbotix_gravity_compensation
+[31.188s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/environment/ament_prefix_path.sh
+[31.188s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/environment/ament_prefix_path.dsv
+[31.188s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/environment/path.sh
+[31.189s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/environment/path.dsv
+[31.189s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/local_setup.bash
+[31.190s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/local_setup.sh
+[31.190s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/local_setup.zsh
+[31.191s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/local_setup.dsv
+[31.191s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/package.dsv
+[31.192s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/ament_index/resource_index/packages/interbotix_gravity_compensation
+[31.192s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/cmake/interbotix_gravity_compensationConfig.cmake
+[31.192s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/cmake/interbotix_gravity_compensationConfig-version.cmake
+[31.192s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_gravity_compensation/share/interbotix_gravity_compensation/package.xml
+[31.200s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_gravity_compensation

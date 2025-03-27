@@ -1,0 +1,52 @@
+[0.440s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools -- -j12 -l12
+[0.941s] [ 16%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/moveit_visual_tools.cpp.o[0m
+[0.957s] [ 33%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_robot_state.cpp.o[0m
+[0.964s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_end_effector.cpp.o[0m
+[37.526s] [ 66%] [32m[1mLinking CXX shared library libmoveit_visual_tools.so[0m
+[38.203s] [ 66%] Built target moveit_visual_tools
+[38.356s] [ 83%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools_demo.dir/src/moveit_visual_tools_demo.cpp.o[0m
+[54.353s] [100%] [32m[1mLinking CXX executable moveit_visual_tools_demo[0m
+[54.842s] [100%] Built target moveit_visual_tools_demo
+[54.859s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools -- -j12 -l12
+[54.863s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools
+[54.879s] -- Install configuration: "Release"
+[54.880s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/library_path.sh
+[54.880s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/library_path.dsv
+[54.881s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/lib/libmoveit_visual_tools.so
+[54.884s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/lib/libmoveit_visual_tools.so" to ""
+[54.885s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/lib/moveit_visual_tools/moveit_visual_tools_demo
+[54.886s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/lib/moveit_visual_tools/moveit_visual_tools_demo" to ""
+[54.886s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/include
+[54.886s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/include/moveit_visual_tools
+[54.886s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/include/moveit_visual_tools/moveit_visual_tools.h
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/include/moveit_visual_tools/imarker_end_effector.h
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/include/moveit_visual_tools/imarker_robot_state.h
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/launch
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/launch/demo_rviz.launch.py
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/launch/demo.rviz
+[54.887s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources/demo.png
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources/rrbot.srdf
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources/screenshot.png
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources/demo_mesh.stl
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/resources/rrbot.urdf
+[54.888s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/ament_index/resource_index/package_run_dependencies/moveit_visual_tools
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/ament_index/resource_index/parent_prefix_path/moveit_visual_tools
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/ament_prefix_path.sh
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/ament_prefix_path.dsv
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/path.sh
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/environment/path.dsv
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.bash
+[54.889s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.sh
+[54.890s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.zsh
+[54.890s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.dsv
+[54.890s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/package.dsv
+[54.890s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/ament_index/resource_index/packages/moveit_visual_tools
+[54.891s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport.cmake
+[54.891s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport-release.cmake
+[54.891s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/ament_cmake_export_targets-extras.cmake
+[54.892s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[54.892s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake
+[54.892s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake
+[54.893s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/moveit_visual_tools/share/moveit_visual_tools/package.xml
+[54.897s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/moveit_visual_tools

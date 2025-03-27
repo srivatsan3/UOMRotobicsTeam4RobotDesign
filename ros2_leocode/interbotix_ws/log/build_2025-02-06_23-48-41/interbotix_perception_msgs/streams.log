@@ -1,0 +1,338 @@
+[0.556s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_perception_toolbox/interbotix_perception_msgs -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs
+[0.686s] -- The C compiler identification is GNU 11.4.0
+[0.841s] -- The CXX compiler identification is GNU 11.4.0
+[0.853s] -- Detecting C compiler ABI info
+[1.007s] -- Detecting C compiler ABI info - done
+[1.025s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.025s] -- Detecting C compile features
+[1.026s] -- Detecting C compile features - done
+[1.031s] -- Detecting CXX compiler ABI info
+[1.173s] -- Detecting CXX compiler ABI info - done
+[1.194s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.195s] -- Detecting CXX compile features
+[1.197s] -- Detecting CXX compile features - done
+[1.204s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.210s] -- Found ament_cmake_core: 1.3.11 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[1.600s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.795s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.816s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.024s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.117s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[2.188s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.210s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.204s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.793s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.667s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.735s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.741s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.829s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.829s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.830s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.830s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.870s] -- Found PythonExtra: .so  
+[5.164s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.220s] -- Configuring done
+[5.392s] -- Generating done
+[5.444s] -- Build files have been written to: /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs
+[5.467s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_perception_toolbox/interbotix_perception_msgs -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs
+[5.471s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs -- -j12 -l12
+[5.590s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.595s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[5.607s] [  3%] Built target ament_cmake_python_copy_interbotix_perception_msgs
+[6.594s] running egg_info
+[6.597s] creating interbotix_perception_msgs.egg-info
+[6.597s] writing interbotix_perception_msgs.egg-info/PKG-INFO
+[6.600s] writing dependency_links to interbotix_perception_msgs.egg-info/dependency_links.txt
+[6.601s] writing top-level names to interbotix_perception_msgs.egg-info/top_level.txt
+[6.602s] writing manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[6.614s] reading manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[6.618s] writing manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[6.710s] [  3%] Built target ament_cmake_python_build_interbotix_perception_msgs_egg
+[8.510s] [  5%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.c.o[0m
+[8.512s] [  7%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_perception_msgs/msg/detail/cluster_info__functions.c.o[0m
+[8.533s] [  9%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_perception_msgs/srv/detail/filter_params__functions.c.o[0m
+[8.593s] [ 10%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_c.dir/rosidl_generator_c/interbotix_perception_msgs/srv/detail/snap_picture__functions.c.o[0m
+[8.648s] [ 10%] Built target interbotix_perception_msgs__cpp
+[8.700s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[8.710s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[8.723s] [ 16%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[8.812s] [ 18%] [32m[1mLinking C shared library libinterbotix_perception_msgs__rosidl_generator_c.so[0m
+[8.918s] [ 18%] Built target interbotix_perception_msgs__rosidl_generator_c
+[8.943s] [ 20%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[8.952s] [ 21%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[8.967s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[11.015s] [ 25%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_perception_msgs/srv/detail/dds_fastrtps/cluster_info_array__type_support.cpp.o[0m
+[11.035s] [ 27%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_perception_msgs/srv/detail/dds_fastrtps/filter_params__type_support.cpp.o[0m
+[11.050s] [ 29%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_perception_msgs/srv/detail/dds_fastrtps/snap_picture__type_support.cpp.o[0m
+[11.051s] [ 30%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_perception_msgs/msg/detail/dds_fastrtps/cluster_info__type_support.cpp.o[0m
+[11.231s] [ 36%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_perception_msgs/srv/filter_params__type_support.cpp.o[0m
+[11.231s] [ 36%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_perception_msgs/srv/snap_picture__type_support.cpp.o[0m
+[11.232s] [ 36%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_perception_msgs/msg/cluster_info__type_support.cpp.o[0m
+[11.245s] [ 38%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/interbotix_perception_msgs/srv/cluster_info_array__type_support.cpp.o[0m
+[11.459s] [ 40%] [32m[1mLinking CXX shared library libinterbotix_perception_msgs__rosidl_typesupport_c.so[0m
+[11.484s] [ 41%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_perception_msgs/srv/filter_params__type_support.cpp.o[0m
+[11.501s] [ 45%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_perception_msgs/msg/cluster_info__type_support.cpp.o[0m
+[11.502s] [ 45%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_perception_msgs/srv/snap_picture__type_support.cpp.o[0m
+[11.533s] [ 47%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_perception_msgs/srv/cluster_info_array__type_support.cpp.o[0m
+[11.768s] [ 47%] Built target interbotix_perception_msgs__rosidl_typesupport_c
+[12.131s] [ 49%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.cpp.o[0m
+[12.144s] [ 50%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_perception_msgs/msg/detail/cluster_info__type_support.cpp.o[0m
+[12.227s] [ 52%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_perception_msgs/msg/detail/cluster_info__type_support.c.o[0m
+[12.405s] [ 54%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.c.o[0m
+[12.574s] [ 56%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_perception_msgs/msg/detail/cluster_info__type_support_c.cpp.o[0m
+[12.730s] [ 58%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_perception_msgs/srv/detail/filter_params__type_support.c.o[0m
+[12.911s] [ 60%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/interbotix_perception_msgs/srv/detail/snap_picture__type_support.c.o[0m
+[13.023s] [ 61%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_perception_msgs/srv/detail/filter_params__type_support.cpp.o[0m
+[13.124s] [ 63%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support_c.cpp.o[0m
+[13.145s] [ 65%] [32m[1mLinking C shared library libinterbotix_perception_msgs__rosidl_typesupport_introspection_c.so[0m
+[13.301s] [ 67%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_perception_msgs/srv/detail/snap_picture__type_support.cpp.o[0m
+[13.347s] [ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[13.374s] [ 69%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_perception_msgs/srv/detail/filter_params__type_support_c.cpp.o[0m
+[13.421s] [ 70%] [32mBuilding CXX object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/interbotix_perception_msgs/srv/detail/snap_picture__type_support_c.cpp.o[0m
+[13.534s] [ 72%] [32m[1mLinking CXX shared library libinterbotix_perception_msgs__rosidl_typesupport_cpp.so[0m
+[13.661s] [ 72%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[14.398s] [ 74%] [32m[1mLinking CXX shared library libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[14.629s] [ 74%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[14.657s] [ 76%] [32m[1mLinking CXX shared library libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[14.860s] [ 76%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[15.273s] [ 78%] [32m[1mLinking CXX shared library libinterbotix_perception_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[15.590s] [ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[15.700s] [ 78%] Built target interbotix_perception_msgs
+[15.791s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[19.736s] [ 80%] Built target interbotix_perception_msgs__py
+[19.811s] [ 81%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_perception_msgs/msg/_cluster_info_s.c.o[0m
+[19.825s] [ 83%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_perception_msgs/srv/_cluster_info_array_s.c.o[0m
+[19.833s] [ 85%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_perception_msgs/srv/_snap_picture_s.c.o[0m
+[19.834s] [ 87%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_generator_py.dir/rosidl_generator_py/interbotix_perception_msgs/srv/_filter_params_s.c.o[0m
+[20.331s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_perception_msgs/libinterbotix_perception_msgs__rosidl_generator_py.so[0m
+[20.467s] [ 89%] Built target interbotix_perception_msgs__rosidl_generator_py
+[20.583s] [ 90%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[20.590s] [ 92%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[20.594s] [ 94%] [32mBuilding C object CMakeFiles/interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[20.990s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[21.109s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[21.153s] [ 98%] Built target interbotix_perception_msgs__rosidl_typesupport_c__pyext
+[21.254s] [ 98%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[21.310s] [100%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[21.456s] [100%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[21.504s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs -- -j12 -l12
+[21.509s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs
+[21.526s] -- Install configuration: ""
+[21.527s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/rosidl_interfaces/interbotix_perception_msgs
+[21.534s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.549s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.549s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.h
+[21.549s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[21.550s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.550s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__functions.h
+[21.562s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__functions.c
+[21.562s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.h
+[21.562s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.h
+[21.562s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__functions.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.h
+[21.563s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.h
+[21.564s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.h
+[21.564s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.h
+[21.564s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__functions.c
+[21.580s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.c
+[21.580s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__functions.c
+[21.581s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.h
+[21.581s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__functions.h
+[21.581s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.h
+[21.581s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.sh
+[21.582s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.dsv
+[21.582s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_c.so
+[21.582s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_c.so" to ""
+[21.583s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.583s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.583s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[21.584s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.587s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_c.h
+[21.588s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.588s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.588s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_c.h
+[21.589s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_c.h
+[21.589s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_c.h
+[21.589s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_c.so
+[21.589s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[21.589s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.590s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.590s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[21.590s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.590s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.c
+[21.590s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_c.h
+[21.591s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.591s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.591s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.c
+[21.591s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_c.h
+[21.591s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.c
+[21.591s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_c.h
+[21.592s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_c.h
+[21.592s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.c
+[21.592s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_c.so
+[21.592s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_c.so" to ""
+[21.592s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_c.so
+[21.593s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_c.so" to ""
+[21.593s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.593s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.593s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[21.593s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.hpp
+[21.593s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.594s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__traits.hpp
+[21.594s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.hpp
+[21.594s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.hpp
+[21.594s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__builder.hpp
+[21.594s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.595s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.hpp
+[21.595s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.hpp
+[21.595s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.595s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__builder.hpp
+[21.595s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__traits.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__traits.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.hpp
+[21.596s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__builder.hpp
+[21.597s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__builder.hpp
+[21.597s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.hpp
+[21.597s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.hpp
+[21.597s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__traits.hpp
+[21.597s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.hpp
+[21.598s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.598s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.598s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[21.598s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.598s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_cpp.hpp
+[21.599s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/dds_fastrtps
+[21.599s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.599s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.599s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_cpp.hpp
+[21.600s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_cpp.hpp
+[21.600s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_cpp.hpp
+[21.600s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/dds_fastrtps
+[21.600s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[21.600s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[21.601s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[21.601s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[21.601s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[21.601s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.cpp
+[21.601s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_cpp.hpp
+[21.602s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[21.602s] -- Up-to-date: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[21.602s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.cpp
+[21.602s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_cpp.hpp
+[21.603s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.cpp
+[21.603s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_cpp.hpp
+[21.603s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_cpp.hpp
+[21.603s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.cpp
+[21.603s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_cpp.so
+[21.604s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[21.604s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_cpp.so
+[21.604s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_cpp.so" to ""
+[21.604s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.sh
+[21.604s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.dsv
+[21.604s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs
+[21.605s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[21.606s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[21.606s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/libinterbotix_perception_msgs__rosidl_generator_py.so
+[21.606s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg
+[21.606s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info.py
+[21.606s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/__init__.py
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info_s.c
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array_s.c
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture_s.c
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array.py
+[21.607s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params_s.c
+[21.608s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/__init__.py
+[21.608s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params.py
+[21.608s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture.py
+[21.609s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[21.609s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/__init__.py
+[21.609s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[21.609s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[21.609s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_c.c
+[21.697s] Listing '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs'...
+[21.697s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/__init__.py'...
+[21.697s] Listing '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg'...
+[21.698s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/__init__.py'...
+[21.698s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info.py'...
+[21.698s] Listing '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv'...
+[21.699s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/__init__.py'...
+[21.699s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array.py'...
+[21.699s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params.py'...
+[21.700s] Compiling '/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture.py'...
+[21.723s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[21.723s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[21.724s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[21.724s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[21.725s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[21.727s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[21.728s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_py.so
+[21.731s] -- Set runtime path of "/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_py.so" to ""
+[21.733s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.idl
+[21.739s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.idl
+[21.740s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.idl
+[21.743s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.idl
+[21.744s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.msg
+[21.748s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.srv
+[21.754s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Request.msg
+[21.755s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Response.msg
+[21.755s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.srv
+[21.756s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Request.msg
+[21.756s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Response.msg
+[21.757s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.srv
+[21.762s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Request.msg
+[21.763s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Response.msg
+[21.763s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/package_run_dependencies/interbotix_perception_msgs
+[21.763s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/parent_prefix_path/interbotix_perception_msgs
+[21.763s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.sh
+[21.765s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.dsv
+[21.775s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.sh
+[21.775s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.dsv
+[21.776s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.bash
+[21.776s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.sh
+[21.776s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.zsh
+[21.776s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.dsv
+[21.776s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.dsv
+[21.777s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/packages/interbotix_perception_msgs
+[21.777s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport.cmake
+[21.777s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport-noconfig.cmake
+[21.777s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[21.778s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[21.778s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[21.778s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[21.778s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport.cmake
+[21.787s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[21.788s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cppExport.cmake
+[21.788s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[21.788s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[21.788s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[21.789s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[21.789s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport.cmake
+[21.789s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[21.789s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport.cmake
+[21.790s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport-noconfig.cmake
+[21.790s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake-extras.cmake
+[21.790s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[21.790s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig.cmake
+[21.791s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig-version.cmake
+[21.792s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.xml
+[21.803s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_perception_msgs

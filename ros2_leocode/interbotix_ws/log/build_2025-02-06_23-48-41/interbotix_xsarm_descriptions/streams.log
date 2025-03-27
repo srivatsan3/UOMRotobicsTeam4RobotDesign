@@ -1,0 +1,246 @@
+[0.038s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_manipulators/interbotix_ros_xsarms/interbotix_xsarm_descriptions -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions
+[0.156s] -- The C compiler identification is GNU 11.4.0
+[0.260s] -- The CXX compiler identification is GNU 11.4.0
+[0.275s] -- Detecting C compiler ABI info
+[0.408s] -- Detecting C compiler ABI info - done
+[0.425s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.426s] -- Detecting C compile features
+[0.427s] -- Detecting C compile features - done
+[0.432s] -- Detecting CXX compiler ABI info
+[0.585s] -- Detecting CXX compiler ABI info - done
+[0.614s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.614s] -- Detecting CXX compile features
+[0.616s] -- Detecting CXX compile features - done
+[0.627s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.956s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.127s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[1.185s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.194s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.209s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.246s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.274s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.376s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[1.378s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.378s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.455s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.459s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.629s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.667s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.723s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.738s] -- Looking for pthread.h
+[1.872s] -- Looking for pthread.h - found
+[1.873s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.009s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.011s] -- Found Threads: TRUE  
+[2.324s] -- Found rviz2: 11.2.16 (/opt/ros/humble/share/rviz2/cmake)
+[2.328s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[2.333s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.460s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.486s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.489s] -- Added test 'lint_cmake' to check CMake code style
+[2.492s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.504s] -- Added test 'xmllint' to check XML markup files
+[2.508s] -- Configuring done
+[2.525s] -- Generating done
+[2.537s] -- Build files have been written to: /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions
+[2.559s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/mscrobotics2425laptop11/interbotix_ws/src/interbotix_ros_manipulators/interbotix_ros_xsarms/interbotix_xsarm_descriptions -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions
+[2.563s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions -- -j12 -l12
+[2.626s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions -- -j12 -l12
+[2.629s] Invoking command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions
+[2.640s] -- Install configuration: ""
+[2.640s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf
+[2.642s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/mobile_wx250s.urdf.xacro
+[2.642s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/mobile_px100.urdf.xacro
+[2.643s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/gazebo_configs.urdf.xacro
+[2.643s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/aloha_wx250s.urdf.xacro
+[2.643s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/px100.urdf.xacro
+[2.643s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/wx250s.urdf.xacro
+[2.643s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/control.urdf.xacro
+[2.644s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/px150.urdf.xacro
+[2.644s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/rx150.urdf.xacro
+[2.645s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/vx300s.urdf.xacro
+[2.645s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/aloha_vx300s.urdf.xacro
+[2.646s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/rx200.urdf.xacro
+[2.647s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/wx250.urdf.xacro
+[2.648s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/vx250.urdf.xacro
+[2.648s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/ar_tag.urdf.xacro
+[2.649s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/wx200.urdf.xacro
+[2.649s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/mobile_wx200.urdf.xacro
+[2.649s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//urdf/vx300.urdf.xacro
+[2.649s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//launch
+[2.650s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//launch/xsarm_description.launch.py
+[2.650s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//launch/remote_view.launch.py
+[2.650s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes
+[2.651s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes
+[2.651s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/base.stl
+[2.652s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/gripper_bar.stl
+[2.652s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/shoulder.stl
+[2.652s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/gripper.stl
+[2.653s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/forearm.stl
+[2.654s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/upper_arm.stl
+[2.654s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/gripper_prop.stl
+[2.654s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/gripper_finger.stl
+[2.654s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx200_meshes/wrist.stl
+[2.654s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes
+[2.655s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/base.stl
+[2.655s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/gripper_bar.stl
+[2.656s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/shoulder.stl
+[2.656s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/gripper.stl
+[2.657s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/forearm.stl
+[2.657s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/upper_arm.stl
+[2.658s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/gripper_prop.stl
+[2.659s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/gripper_finger.stl
+[2.659s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px150_meshes/wrist.stl
+[2.660s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes
+[2.660s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/base.stl
+[2.661s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/gripper_bar.stl
+[2.663s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/shoulder.stl
+[2.663s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/upper_forearm.stl
+[2.664s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/gripper.stl
+[2.664s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/lower_forearm.stl
+[2.664s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/upper_arm.stl
+[2.664s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/gripper_prop.stl
+[2.665s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/gripper_finger.stl
+[2.665s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_wx250s_meshes/wrist.stl
+[2.666s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes
+[2.666s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/base.stl
+[2.667s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/gripper_bar.stl
+[2.668s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/shoulder.stl
+[2.668s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/gripper.stl
+[2.669s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/forearm.stl
+[2.669s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/upper_arm.stl
+[2.670s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/gripper_prop.stl
+[2.670s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/gripper_finger.stl
+[2.672s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx250_meshes/wrist.stl
+[2.673s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes
+[2.673s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/base.stl
+[2.674s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/gripper_bar.stl
+[2.674s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/shoulder.stl
+[2.675s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/gripper.stl
+[2.675s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/forearm.stl
+[2.676s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/upper_arm.stl
+[2.677s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/gripper_prop.stl
+[2.677s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_px100_meshes/gripper_finger.stl
+[2.677s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes
+[2.678s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/base.stl
+[2.680s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/gripper_bar.stl
+[2.681s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/shoulder.stl
+[2.681s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/upper_forearm.stl
+[2.682s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/gripper.stl
+[2.682s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/lower_forearm.stl
+[2.684s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/upper_arm.stl
+[2.686s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/gripper_prop.stl
+[2.686s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/gripper_finger.stl
+[2.686s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx250s_meshes/wrist.stl
+[2.686s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes
+[2.687s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/base.stl
+[2.687s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/gripper_bar.stl
+[2.687s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/shoulder.stl
+[2.688s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/gripper.stl
+[2.688s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/forearm.stl
+[2.688s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/upper_arm.stl
+[2.688s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/gripper_prop.stl
+[2.689s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/gripper_finger.stl
+[2.689s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx200_meshes/wrist.stl
+[2.689s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes
+[2.689s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/base.stl
+[2.690s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/gripper_bar.stl
+[2.691s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/shoulder.stl
+[2.692s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/gripper.stl
+[2.693s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/forearm.stl
+[2.693s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/upper_arm.stl
+[2.694s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/gripper_prop.stl
+[2.694s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/gripper_finger.stl
+[2.695s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300_meshes/wrist.stl
+[2.696s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes
+[2.696s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/base.stl
+[2.696s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/gripper_bar.stl
+[2.697s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/shoulder.stl
+[2.697s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/gripper.stl
+[2.697s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/forearm.stl
+[2.698s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/upper_arm.stl
+[2.698s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/gripper_prop.stl
+[2.699s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/px100_meshes/gripper_finger.stl
+[2.699s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/interbotix_black.png
+[2.699s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes
+[2.700s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/base.stl
+[2.700s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/gripper_bar.stl
+[2.701s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/shoulder.stl
+[2.702s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/upper_forearm.stl
+[2.702s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/gripper.stl
+[2.703s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/lower_forearm.stl
+[2.703s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/upper_arm.stl
+[2.704s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/gripper_prop.stl
+[2.704s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/gripper_finger.stl
+[2.705s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250s_meshes/wrist.stl
+[2.705s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes
+[2.706s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/base.stl
+[2.706s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/gripper_bar.stl
+[2.707s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/shoulder.stl
+[2.708s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/upper_forearm.stl
+[2.708s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/gripper.stl
+[2.710s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/lower_forearm.stl
+[2.710s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/upper_arm.stl
+[2.711s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/gripper_prop.stl
+[2.711s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/gripper_finger.stl
+[2.712s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/aloha_vx300s_meshes/wrist.stl
+[2.712s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes
+[2.712s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/base.stl
+[2.713s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/gripper_bar.stl
+[2.713s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/shoulder.stl
+[2.714s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/gripper.stl
+[2.714s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/forearm.stl
+[2.715s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/upper_arm.stl
+[2.715s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/gripper_prop.stl
+[2.716s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/gripper_finger.stl
+[2.716s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/rx150_meshes/wrist.stl
+[2.716s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes
+[2.717s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/base.stl
+[2.719s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/gripper_bar.stl
+[2.719s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/shoulder.stl
+[2.719s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/gripper.stl
+[2.720s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/forearm.stl
+[2.720s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/upper_arm.stl
+[2.720s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/gripper_prop.stl
+[2.721s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/gripper_finger.stl
+[2.721s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/mobile_wx200_meshes/wrist.stl
+[2.721s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/ar_tag.stl
+[2.721s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes
+[2.722s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/base.stl
+[2.722s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/gripper_bar.stl
+[2.723s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/shoulder.stl
+[2.723s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/gripper.stl
+[2.723s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/forearm.stl
+[2.723s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/upper_arm.stl
+[2.724s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/gripper_prop.stl
+[2.724s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/gripper_finger.stl
+[2.725s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/wx250_meshes/wrist.stl
+[2.725s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes
+[2.726s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/base.stl
+[2.726s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/gripper_bar.stl
+[2.727s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/shoulder.stl
+[2.727s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/upper_forearm.stl
+[2.728s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/gripper.stl
+[2.729s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/lower_forearm.stl
+[2.730s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/upper_arm.stl
+[2.730s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/gripper_prop.stl
+[2.730s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/gripper_finger.stl
+[2.731s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//meshes/vx300s_meshes/wrist.stl
+[2.731s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//rviz
+[2.731s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions//rviz/xsarm_description.rviz
+[2.732s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/ament_index/resource_index/package_run_dependencies/interbotix_xsarm_descriptions
+[2.732s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/ament_index/resource_index/parent_prefix_path/interbotix_xsarm_descriptions
+[2.733s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/environment/ament_prefix_path.sh
+[2.733s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/environment/ament_prefix_path.dsv
+[2.733s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/environment/path.sh
+[2.733s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/environment/path.dsv
+[2.734s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/local_setup.bash
+[2.734s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/local_setup.sh
+[2.734s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/local_setup.zsh
+[2.735s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/local_setup.dsv
+[2.735s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/package.dsv
+[2.735s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/ament_index/resource_index/packages/interbotix_xsarm_descriptions
+[2.736s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/cmake/interbotix_xsarm_descriptionsConfig.cmake
+[2.736s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/cmake/interbotix_xsarm_descriptionsConfig-version.cmake
+[2.737s] -- Installing: /home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xsarm_descriptions/share/interbotix_xsarm_descriptions/package.xml
+[2.743s] Invoked command in '/home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions' returned '0': AMENT_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_sdk:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox:/home/mscrobotics2425laptop11/apriltag_ws/install/apriltag_ros:/opt/ros/humble LD_LIBRARY_PATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_driver/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/lib:/home/mscrobotics2425laptop11/interbotix_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/mscrobotics2425laptop11/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mscrobotics2425laptop11/interbotix_ws/build/interbotix_xsarm_descriptions
