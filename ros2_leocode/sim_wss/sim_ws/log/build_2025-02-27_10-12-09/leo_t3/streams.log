@@ -1,0 +1,44 @@
+[1.634s] Invoking command in '/home/mscrobotics2425laptop28/sim_ws/build/leo_t3': PYTHONPATH=/home/mscrobotics2425laptop28/sim_ws/build/leo_t3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop28/sim_ws/install/leo_t3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/build --no-deps symlink_data
+[1.791s] /home/mscrobotics2425laptop28/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.791s]   warnings.warn(msg)
+[2.019s] running develop
+[2.423s] running egg_info
+[2.459s] creating leo_t3.egg-info
+[2.459s] writing leo_t3.egg-info/PKG-INFO
+[2.461s] writing dependency_links to leo_t3.egg-info/dependency_links.txt
+[2.462s] writing requirements to leo_t3.egg-info/requires.txt
+[2.462s] writing top-level names to leo_t3.egg-info/top_level.txt
+[2.462s] writing manifest file 'leo_t3.egg-info/SOURCES.txt'
+[2.541s] reading manifest file 'leo_t3.egg-info/SOURCES.txt'
+[2.543s] writing manifest file 'leo_t3.egg-info/SOURCES.txt'
+[2.602s] running build_ext
+[2.602s] Creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/lib/python3.10/site-packages/leo-t3.egg-link (link to .)
+[2.604s] 
+[2.604s] Installed /home/mscrobotics2425laptop28/sim_ws/build/leo_t3
+[2.604s] running symlink_data
+[2.604s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/ament_index/resource_index/packages
+[2.605s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/resource/leo_t3 -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/ament_index/resource_index/packages
+[2.605s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/package.xml -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3
+[2.606s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/launch
+[2.606s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/launch/leo_demo.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/launch
+[2.606s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+[2.606s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/urdf/leo_final.urdf copy.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+[2.606s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/urdf/leo_rover.urdf.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+[2.607s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/rviz
+[2.607s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/rviz/leo_demo.rviz -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/rviz
+[2.607s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/worlds
+[2.607s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/config
+[2.608s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/maps
+[2.608s] creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.608s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelMecanumA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.608s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Chassis_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.608s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.608s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.609s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Chassis.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.609s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.609s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Rocker.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.609s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Mecanum_wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.609s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Rocker_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.610s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelMecanumB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.610s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Antenna.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+[2.669s] Invoked command in '/home/mscrobotics2425laptop28/sim_ws/build/leo_t3' returned '0': PYTHONPATH=/home/mscrobotics2425laptop28/sim_ws/build/leo_t3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop28/sim_ws/install/leo_t3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/build --no-deps symlink_data

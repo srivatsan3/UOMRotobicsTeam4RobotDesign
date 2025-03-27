@@ -1,0 +1,42 @@
+[1.862s] Invoking command in '/home/group4/ros2_ws/src/bt_demos': PYTHONPATH=/home/group4/ros2_ws/build/bt_demos/prefix_override:/home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bt_demos build --build-base /home/group4/ros2_ws/build/bt_demos/build install --record /home/group4/ros2_ws/build/bt_demos/install.log --single-version-externally-managed install_data
+[2.647s] running egg_info
+[2.648s] creating ../../build/bt_demos/bt_demos.egg-info
+[2.648s] writing ../../build/bt_demos/bt_demos.egg-info/PKG-INFO
+[2.649s] writing dependency_links to ../../build/bt_demos/bt_demos.egg-info/dependency_links.txt
+[2.649s] writing entry points to ../../build/bt_demos/bt_demos.egg-info/entry_points.txt
+[2.649s] writing requirements to ../../build/bt_demos/bt_demos.egg-info/requires.txt
+[2.649s] writing top-level names to ../../build/bt_demos/bt_demos.egg-info/top_level.txt
+[2.649s] writing manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+[2.652s] reading manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+[2.653s] writing manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+[2.653s] running build
+[2.653s] running build_py
+[2.653s] creating /home/group4/ros2_ws/build/bt_demos/build
+[2.653s] creating /home/group4/ros2_ws/build/bt_demos/build/lib
+[2.653s] creating /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos
+[2.683s] copying bt_demos/__init__.py -> /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos
+[2.684s] running install
+[2.684s] running install_lib
+[2.685s] creating /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos
+[2.686s] copying /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos/__init__.py -> /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos
+[2.686s] byte-compiling /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos/__init__.py to __init__.cpython-310.pyc
+[2.687s] running install_data
+[2.687s] creating /home/group4/ros2_ws/install/bt_demos/share/ament_index
+[2.687s] creating /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index
+[2.687s] creating /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index/packages
+[2.687s] copying resource/bt_demos -> /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index/packages
+[2.687s] copying package.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos
+[2.687s] creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+[2.688s] copying behavior_tree_xml/bt_example_0.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+[2.696s] copying behavior_tree_xml/bt_simple_nav.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+[2.696s] creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/launch
+[2.696s] copying launch/bt_demo.launch.py -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/launch
+[2.696s] creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+[2.696s] copying config/controller.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+[2.696s] copying config/bt_nav.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+[2.697s] copying config/planner.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+[2.697s] running install_egg_info
+[2.701s] Copying ../../build/bt_demos/bt_demos.egg-info to /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos-0.0.0-py3.10.egg-info
+[2.702s] running install_scripts
+[2.778s] writing list of installed files to '/home/group4/ros2_ws/build/bt_demos/install.log'
+[2.866s] Invoked command in '/home/group4/ros2_ws/src/bt_demos' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/bt_demos/prefix_override:/home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bt_demos build --build-base /home/group4/ros2_ws/build/bt_demos/build install --record /home/group4/ros2_ws/build/bt_demos/install.log --single-version-externally-managed install_data

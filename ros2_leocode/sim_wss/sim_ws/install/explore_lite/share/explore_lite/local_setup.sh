@@ -1,0 +1,1 @@
+/home/mscrobotics2425laptop28/sim_ws/build/explore_lite/ament_cmake_environment_hooks/local_setup.sh

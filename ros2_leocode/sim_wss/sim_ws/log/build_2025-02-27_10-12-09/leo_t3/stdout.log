@@ -1,0 +1,40 @@
+running develop
+running egg_info
+creating leo_t3.egg-info
+writing leo_t3.egg-info/PKG-INFO
+writing dependency_links to leo_t3.egg-info/dependency_links.txt
+writing requirements to leo_t3.egg-info/requires.txt
+writing top-level names to leo_t3.egg-info/top_level.txt
+writing manifest file 'leo_t3.egg-info/SOURCES.txt'
+reading manifest file 'leo_t3.egg-info/SOURCES.txt'
+writing manifest file 'leo_t3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/lib/python3.10/site-packages/leo-t3.egg-link (link to .)
+
+Installed /home/mscrobotics2425laptop28/sim_ws/build/leo_t3
+running symlink_data
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/ament_index/resource_index/packages
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/resource/leo_t3 -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/ament_index/resource_index/packages
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/package.xml -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/launch
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/launch/leo_demo.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/launch
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/urdf/leo_final.urdf copy.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/urdf/leo_rover.urdf.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/urdf
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/rviz
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/rviz/leo_demo.rviz -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/rviz
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/worlds
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/config
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/maps
+creating /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelMecanumA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Chassis_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Chassis.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Rocker.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Mecanum_wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Rocker_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/WheelMecanumB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/leo_t3/models/Antenna.dae -> /home/mscrobotics2425laptop28/sim_ws/install/leo_t3/share/leo_t3/models

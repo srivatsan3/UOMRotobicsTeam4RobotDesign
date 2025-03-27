@@ -1,0 +1,40 @@
+running egg_info
+creating ../../build/bt_demos/bt_demos.egg-info
+writing ../../build/bt_demos/bt_demos.egg-info/PKG-INFO
+writing dependency_links to ../../build/bt_demos/bt_demos.egg-info/dependency_links.txt
+writing entry points to ../../build/bt_demos/bt_demos.egg-info/entry_points.txt
+writing requirements to ../../build/bt_demos/bt_demos.egg-info/requires.txt
+writing top-level names to ../../build/bt_demos/bt_demos.egg-info/top_level.txt
+writing manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+reading manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+writing manifest file '../../build/bt_demos/bt_demos.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/group4/ros2_ws/build/bt_demos/build
+creating /home/group4/ros2_ws/build/bt_demos/build/lib
+creating /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos
+copying bt_demos/__init__.py -> /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos
+running install
+running install_lib
+creating /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos
+copying /home/group4/ros2_ws/build/bt_demos/build/lib/bt_demos/__init__.py -> /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos
+byte-compiling /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/group4/ros2_ws/install/bt_demos/share/ament_index
+creating /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index
+creating /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index/packages
+copying resource/bt_demos -> /home/group4/ros2_ws/install/bt_demos/share/ament_index/resource_index/packages
+copying package.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos
+creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+copying behavior_tree_xml/bt_example_0.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+copying behavior_tree_xml/bt_simple_nav.xml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/behavior_tree_xml
+creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/launch
+copying launch/bt_demo.launch.py -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/launch
+creating /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+copying config/controller.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+copying config/bt_nav.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+copying config/planner.yaml -> /home/group4/ros2_ws/install/bt_demos/share/bt_demos/config
+running install_egg_info
+Copying ../../build/bt_demos/bt_demos.egg-info to /home/group4/ros2_ws/install/bt_demos/lib/python3.10/site-packages/bt_demos-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/group4/ros2_ws/build/bt_demos/install.log'

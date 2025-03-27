@@ -1,0 +1,1 @@
+/home/mscrobotics2425laptop28/sim_ws/venv/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py

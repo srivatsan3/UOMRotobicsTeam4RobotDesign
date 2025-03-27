@@ -1,0 +1,24 @@
+[1.806s] Invoking command in '/home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration': PYTHONPATH=/home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/build --no-deps symlink_data
+[2.143s] /home/mscrobotics2425laptop28/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.143s]   warnings.warn(msg)
+[2.512s] running develop
+[2.980s] running egg_info
+[3.002s] creating autonomous_exploration.egg-info
+[3.002s] writing autonomous_exploration.egg-info/PKG-INFO
+[3.004s] writing dependency_links to autonomous_exploration.egg-info/dependency_links.txt
+[3.006s] writing entry points to autonomous_exploration.egg-info/entry_points.txt
+[3.006s] writing requirements to autonomous_exploration.egg-info/requires.txt
+[3.007s] writing top-level names to autonomous_exploration.egg-info/top_level.txt
+[3.007s] writing manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.075s] reading manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.076s] writing manifest file 'autonomous_exploration.egg-info/SOURCES.txt'
+[3.196s] running build_ext
+[3.196s] Creating /home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/lib/python3.10/site-packages/autonomous-exploration.egg-link (link to .)
+[3.219s] Installing control script to /home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/lib/autonomous_exploration
+[3.219s] 
+[3.219s] Installed /home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration
+[3.219s] running symlink_data
+[3.219s] creating /home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/share/ament_index/resource_index/packages
+[3.219s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/resource/autonomous_exploration -> /home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/share/ament_index/resource_index/packages
+[3.219s] symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/package.xml -> /home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/share/autonomous_exploration
+[3.440s] Invoked command in '/home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration' returned '0': PYTHONPATH=/home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop28/sim_ws/install/autonomous_exploration/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mscrobotics2425laptop28/sim_ws/build/autonomous_exploration/build --no-deps symlink_data

@@ -1,0 +1,86 @@
+running egg_info
+creating ../../build/my_leo/my_leo.egg-info
+writing ../../build/my_leo/my_leo.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_leo/my_leo.egg-info/dependency_links.txt
+writing entry points to ../../build/my_leo/my_leo.egg-info/entry_points.txt
+writing requirements to ../../build/my_leo/my_leo.egg-info/requires.txt
+writing top-level names to ../../build/my_leo/my_leo.egg-info/top_level.txt
+writing manifest file '../../build/my_leo/my_leo.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_leo/my_leo.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_leo/my_leo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/group4/ros2_ws/build/my_leo/build
+creating /home/group4/ros2_ws/build/my_leo/build/lib
+creating /home/group4/ros2_ws/build/my_leo/build/lib/my_leo
+copying my_leo/__init__.py -> /home/group4/ros2_ws/build/my_leo/build/lib/my_leo
+running install
+running install_lib
+creating /home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo
+copying /home/group4/ros2_ws/build/my_leo/build/lib/my_leo/__init__.py -> /home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo
+byte-compiling /home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/group4/ros2_ws/install/my_leo/share/ament_index
+creating /home/group4/ros2_ws/install/my_leo/share/ament_index/resource_index
+creating /home/group4/ros2_ws/install/my_leo/share/ament_index/resource_index/packages
+copying resource/my_leo -> /home/group4/ros2_ws/install/my_leo/share/ament_index/resource_index/packages
+copying package.xml -> /home/group4/ros2_ws/install/my_leo/share/my_leo
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+copying launch/my_leo.launch.py -> /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+copying launch/navigation.launch.py -> /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+copying launch/teleop_joy.launch.py -> /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+copying launch/real_my_leo.launch.py -> /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+copying launch/rviz_leo.launch.py -> /home/group4/ros2_ws/install/my_leo/share/my_leo/launch
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/urdf
+copying urdf/leo_sim.urdf.xacro -> /home/group4/ros2_ws/install/my_leo/share/my_leo/urdf
+copying urdf/laser.urdf.xacro -> /home/group4/ros2_ws/install/my_leo/share/my_leo/urdf
+copying urdf/arm.urdf.xacro -> /home/group4/ros2_ws/install/my_leo/share/my_leo/urdf
+copying urdf/macros.xacro -> /home/group4/ros2_ws/install/my_leo/share/my_leo/urdf
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/behavior_tree_xml
+copying behavior_tree_xml/bt_example_0.xml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/behavior_tree_xml
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/rviz
+copying rviz/slam.rviz -> /home/group4/ros2_ws/install/my_leo/share/my_leo/rviz
+copying rviz/nav2.rviz -> /home/group4/ros2_ws/install/my_leo/share/my_leo/rviz
+copying rviz/robot.rviz -> /home/group4/ros2_ws/install/my_leo/share/my_leo/rviz
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/worlds
+copying worlds/tb3.sdf -> /home/group4/ros2_ws/install/my_leo/share/my_leo/worlds
+copying worlds/meshes/wall.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/worlds
+copying worlds/meshes/hexagon.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/worlds
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_4_forearm.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/WheelMecanumA.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_1_base.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Rocker_outline.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Mecanum_wheel_outline.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_8_gripper_bar.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_2_shoulder.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Antenna.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/WheelB.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Chassis.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_7_gripper_prop.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_3_upper_arm.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/WheelMecanumB.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Wheel_outline.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Rocker.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_5_wrist.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_6_gripper.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/Chassis_outline.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_9_gripper_finger.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/WheelA.dae -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+copying models/px150_10_ar_tag.stl -> /home/group4/ros2_ws/install/my_leo/share/my_leo/models
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/params.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/controller.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/bt_nav.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/simple_smoother.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/twist_mux.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/ekf.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/joy_config.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+copying config/planner.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/config
+creating /home/group4/ros2_ws/install/my_leo/share/my_leo/maps
+copying maps/sim_map.yaml -> /home/group4/ros2_ws/install/my_leo/share/my_leo/maps
+copying maps/sim_map.pgm -> /home/group4/ros2_ws/install/my_leo/share/my_leo/maps
+running install_egg_info
+Copying ../../build/my_leo/my_leo.egg-info to /home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/group4/ros2_ws/build/my_leo/install.log'

@@ -1,0 +1,20 @@
+[1.210s] Invoking command in '/home/group4/ros2_ws/src/real_leo': PYTHONPATH=/home/group4/ros2_ws/build/real_leo/prefix_override:/home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/real_leo build --build-base /home/group4/ros2_ws/build/real_leo/build install --record /home/group4/ros2_ws/build/real_leo/install.log --single-version-externally-managed install_data
+[1.373s] running egg_info
+[1.373s] writing ../../build/real_leo/real_leo.egg-info/PKG-INFO
+[1.374s] writing dependency_links to ../../build/real_leo/real_leo.egg-info/dependency_links.txt
+[1.374s] writing entry points to ../../build/real_leo/real_leo.egg-info/entry_points.txt
+[1.374s] writing requirements to ../../build/real_leo/real_leo.egg-info/requires.txt
+[1.374s] writing top-level names to ../../build/real_leo/real_leo.egg-info/top_level.txt
+[1.376s] reading manifest file '../../build/real_leo/real_leo.egg-info/SOURCES.txt'
+[1.376s] writing manifest file '../../build/real_leo/real_leo.egg-info/SOURCES.txt'
+[1.377s] running build
+[1.377s] running build_py
+[1.377s] running install
+[1.377s] running install_lib
+[1.378s] running install_data
+[1.379s] running install_egg_info
+[1.381s] removing '/home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.381s] Copying ../../build/real_leo/real_leo.egg-info to /home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo-0.0.0-py3.10.egg-info
+[1.381s] running install_scripts
+[1.397s] writing list of installed files to '/home/group4/ros2_ws/build/real_leo/install.log'
+[1.417s] Invoked command in '/home/group4/ros2_ws/src/real_leo' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/real_leo/prefix_override:/home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/real_leo build --build-base /home/group4/ros2_ws/build/real_leo/build install --record /home/group4/ros2_ws/build/real_leo/install.log --single-version-externally-managed install_data

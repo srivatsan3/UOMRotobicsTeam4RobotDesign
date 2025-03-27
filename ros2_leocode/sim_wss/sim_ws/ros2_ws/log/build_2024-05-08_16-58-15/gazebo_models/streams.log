@@ -1,0 +1,84 @@
+[0.337s] Invoking command in '/home/group4/ros2_ws/build/gazebo_models': /usr/bin/cmake --build /home/group4/ros2_ws/build/gazebo_models -- -j16 -l16
+[1.264s] tar: Removing leading `../' from member names
+[1.264s] tar: ../arm_part: Cannot stat: No such file or directory
+[1.264s] tar: Removing leading `../' from member names
+[1.264s] tar: ../arrow_red: Cannot stat: No such file or directory
+[1.264s] tar: Removing leading `../' from member names
+[1.264s] tar: ../ambulance: Cannot stat: No such file or directory
+[1.264s] tar: Exiting with failure status due to previous errors
+[1.264s] gmake[2]: *** [CMakeFiles/arm_part.dir/build.make:71: CMakeFiles/arm_part] Error 2
+[1.264s] tar: tar: Exiting with failure status due to previous errorsExiting with failure status due to previous errors
+[1.264s] 
+[1.264s] gmake[2]: *** [CMakeFiles/ambulance.dir/build.make:71: CMakeFiles/ambulance] Error 2
+[1.264s] gmake[2]: *** [CMakeFiles/arrow_red.dir/build.make:71: CMakeFiles/arrow_red] Error 2
+[1.264s] gmake[1]: *** [CMakeFiles/Makefile2:671: CMakeFiles/arm_part.dir/all] Error 2
+[1.264s] gmake[1]: *** Waiting for unfinished jobs....
+[1.264s] gmake[1]: *** [CMakeFiles/Makefile2:697: CMakeFiles/arrow_red.dir/all] Error 2
+[1.264s] gmake[1]: *** [CMakeFiles/Makefile2:593: CMakeFiles/ambulance.dir/all] Error 2
+[1.264s] tar: Removing leading `../' from member names
+[1.264s] tar: ../apollo15_landing_site_1000x1000: Cannot stat: No such file or directory
+[1.264s] tar: Removing leading `../' from member names
+[1.264s] tar: ../apartment: Cannot stat: No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../beer: Cannot stat: No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../asus_xtion_pro_camera: Cannot stat: No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../bin_4_dropping_task: Cannot stat: No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../bookshelf: Cannot stat: No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../ball_bearing: Cannot stat: No such file or directory
+[1.265s] tar: tar: Removing leading `../' from member namesRemoving leading `../' from member names
+[1.265s] 
+[1.265s] tar: ../bowl: Cannot stattar: ../box_target_green: Cannot stat: No such file or directory
+[1.265s] : No such file or directory
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../asphalt_plane: Cannot stat: No such file or directory
+[1.265s] tar: Exiting with failure status due to previous errors
+[1.265s] tar: Exiting with failure status due to previous errors
+[1.265s] tar: Exiting with failure status due to previous errors
+[1.265s] gmake[2]: *** [CMakeFiles/apartment.dir/build.make:71: CMakeFiles/apartment] Error 2
+[1.265s] tar: Exiting with failure status due to previous errors
+[1.265s] tar: Removing leading `../' from member names
+[1.265s] tar: ../breakable_test: Cannot statgmake[2]: *** [CMakeFiles/bin_4_dropping_task.dir/build.make:71: CMakeFiles/bin_4_dropping_task] Error 2
+[1.265s] : No such file or directory
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:619: CMakeFiles/apartment.dir/all] Error 2
+[1.266s] gmake[2]: *** [CMakeFiles/apollo15_landing_site_1000x1000.dir/build.make:71: CMakeFiles/apollo15_landing_site_1000x1000] Error 2
+[1.266s] gmake[2]: *** [CMakeFiles/bookshelf.dir/build.make:71: CMakeFiles/bookshelf] Error 2
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:827: CMakeFiles/bin_4_dropping_task.dir/all] Error 2
+[1.266s] tar: Exiting with failure status due to previous errors
+[1.266s] tar: Exiting with failure status due to previous errors
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:645: CMakeFiles/apollo15_landing_site_1000x1000.dir/all] Error 2
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:853: CMakeFiles/bookshelf.dir/all] Error 2
+[1.266s] tar: tar: Removing leading `../' from member namesExiting with failure status due to previous errors
+[1.266s] 
+[1.266s] tar: ../box_target_red: Cannot statgmake[2]: *** [CMakeFiles/ball_bearing.dir/build.make:71: CMakeFiles/ball_bearing] Error 2
+[1.266s] : No such file or directory
+[1.266s] gmake[2]: *** [CMakeFiles/box_target_green.dir/build.make:71: CMakeFiles/box_target_green] Error 2
+[1.266s] tar: Removing leading `../' from member names
+[1.266s] tar: tar: Exiting with failure status due to previous errors../brick_box_3x1x3: Cannot stat
+[1.266s] : No such file or directory
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:775: CMakeFiles/ball_bearing.dir/all] Error 2
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:905: CMakeFiles/box_target_green.dir/all] Error 2
+[1.266s] gmake[2]: *** [CMakeFiles/asus_xtion_pro_camera.dir/build.make:71: CMakeFiles/asus_xtion_pro_camera] Error 2
+[1.266s] gmake[2]: *** [CMakeFiles/asphalt_plane.dir/build.make:71: CMakeFiles/asphalt_plane] Error 2
+[1.266s] gmake[1]: *** [CMakeFiles/Makefile2:723: CMakeFiles/asphalt_plane.dir/all] Error 2
+[1.267s] gmake[1]: *** [CMakeFiles/Makefile2:749: CMakeFiles/asus_xtion_pro_camera.dir/all] Error 2
+[1.267s] tar: Exiting with failure status due to previous errors
+[1.267s] tar: Exiting with failure status due to previous errors
+[1.267s] gmake[2]: *** [CMakeFiles/breakable_test.dir/build.make:71: CMakeFiles/breakable_test] Error 2
+[1.267s] gmake[2]: *** [CMakeFiles/beer.dir/build.make:71: CMakeFiles/beer] Error 2
+[1.267s] tar: Exiting with failure status due to previous errors
+[1.267s] gmake[1]: *** [CMakeFiles/Makefile2:801: CMakeFiles/beer.dir/all] Error 2
+[1.267s] gmake[1]: *** [CMakeFiles/Makefile2:957: CMakeFiles/breakable_test.dir/all] Error 2
+[1.267s] gmake[2]: *** [CMakeFiles/box_target_red.dir/build.make:71: CMakeFiles/box_target_red] Error 2
+[1.268s] gmake[1]: *** [CMakeFiles/Makefile2:931: CMakeFiles/box_target_red.dir/all] Error 2
+[1.268s] tar: tar: Exiting with failure status due to previous errorsExiting with failure status due to previous errors
+[1.268s] 
+[1.269s] gmake[2]: *** [CMakeFiles/bowl.dir/build.make:71: CMakeFiles/bowl] Error 2
+[1.269s] gmake[2]: *** [CMakeFiles/brick_box_3x1x3.dir/build.make:71: CMakeFiles/brick_box_3x1x3] Error 2
+[1.269s] gmake[1]: *** [CMakeFiles/Makefile2:879: CMakeFiles/bowl.dir/all] Error 2
+[1.270s] gmake[1]: *** [CMakeFiles/Makefile2:983: CMakeFiles/brick_box_3x1x3.dir/all] Error 2
+[1.270s] gmake: *** [Makefile:156: all] Error 2
+[1.275s] Invoked command in '/home/group4/ros2_ws/build/gazebo_models' returned '2': /usr/bin/cmake --build /home/group4/ros2_ws/build/gazebo_models -- -j16 -l16

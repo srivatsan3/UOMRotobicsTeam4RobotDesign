@@ -1,0 +1,20 @@
+[1.210s] Invoking command in '/home/group4/ros2_ws/src/teleop_leo': PYTHONPATH=/home/group4/ros2_ws/build/teleop_leo/prefix_override:/home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/teleop_leo build --build-base /home/group4/ros2_ws/build/teleop_leo/build install --record /home/group4/ros2_ws/build/teleop_leo/install.log --single-version-externally-managed install_data
+[1.384s] running egg_info
+[1.385s] writing ../../build/teleop_leo/teleop_leo.egg-info/PKG-INFO
+[1.386s] writing dependency_links to ../../build/teleop_leo/teleop_leo.egg-info/dependency_links.txt
+[1.386s] writing entry points to ../../build/teleop_leo/teleop_leo.egg-info/entry_points.txt
+[1.386s] writing requirements to ../../build/teleop_leo/teleop_leo.egg-info/requires.txt
+[1.386s] writing top-level names to ../../build/teleop_leo/teleop_leo.egg-info/top_level.txt
+[1.388s] reading manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+[1.389s] writing manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.390s] running install
+[1.390s] running install_lib
+[1.392s] running install_data
+[1.393s] running install_egg_info
+[1.395s] removing '/home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.396s] Copying ../../build/teleop_leo/teleop_leo.egg-info to /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo-0.0.0-py3.10.egg-info
+[1.396s] running install_scripts
+[1.413s] writing list of installed files to '/home/group4/ros2_ws/build/teleop_leo/install.log'
+[1.429s] Invoked command in '/home/group4/ros2_ws/src/teleop_leo' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/teleop_leo/prefix_override:/home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/teleop_leo build --build-base /home/group4/ros2_ws/build/teleop_leo/build install --record /home/group4/ros2_ws/build/teleop_leo/install.log --single-version-externally-managed install_data

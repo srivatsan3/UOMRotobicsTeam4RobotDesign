@@ -1,0 +1,47 @@
+[1.814s] Invoking command in '/home/group4/ros2_ws/src/teleop_leo': PYTHONPATH=/home/group4/ros2_ws/build/teleop_leo/prefix_override:/home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/teleop_leo build --build-base /home/group4/ros2_ws/build/teleop_leo/build install --record /home/group4/ros2_ws/build/teleop_leo/install.log --single-version-externally-managed install_data
+[2.187s] running egg_info
+[2.187s] creating ../../build/teleop_leo/teleop_leo.egg-info
+[2.187s] writing ../../build/teleop_leo/teleop_leo.egg-info/PKG-INFO
+[2.188s] writing dependency_links to ../../build/teleop_leo/teleop_leo.egg-info/dependency_links.txt
+[2.188s] writing entry points to ../../build/teleop_leo/teleop_leo.egg-info/entry_points.txt
+[2.188s] writing requirements to ../../build/teleop_leo/teleop_leo.egg-info/requires.txt
+[2.188s] writing top-level names to ../../build/teleop_leo/teleop_leo.egg-info/top_level.txt
+[2.188s] writing manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+[2.189s] reading manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+[2.190s] writing manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+[2.190s] running build
+[2.190s] running build_py
+[2.190s] creating /home/group4/ros2_ws/build/teleop_leo/build
+[2.190s] creating /home/group4/ros2_ws/build/teleop_leo/build/lib
+[2.191s] creating /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo
+[2.191s] copying teleop_leo/__init__.py -> /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo
+[2.191s] running install
+[2.191s] running install_lib
+[2.193s] creating /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo
+[2.194s] copying /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo/__init__.py -> /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo
+[2.194s] byte-compiling /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo/__init__.py to __init__.cpython-310.pyc
+[2.194s] running install_data
+[2.195s] creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index
+[2.195s] creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index
+[2.195s] creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index/packages
+[2.195s] copying resource/teleop_leo -> /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index/packages
+[2.195s] copying package.xml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo
+[2.195s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.195s] copying launch/slam_leo.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.195s] copying launch/laser.launch.xml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.207s] copying launch/teleop_key.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.207s] copying launch/teleop_joy.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.207s] copying launch/rviz_leo.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+[2.208s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/urdf
+[2.208s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/rviz
+[2.208s] copying rviz/robot.rviz -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/rviz
+[2.211s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/worlds
+[2.211s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/models
+[2.211s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/config
+[2.211s] copying config/joy_config.yaml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/config
+[2.212s] creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/maps
+[2.212s] running install_egg_info
+[2.215s] Copying ../../build/teleop_leo/teleop_leo.egg-info to /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo-0.0.0-py3.10.egg-info
+[2.216s] running install_scripts
+[2.243s] writing list of installed files to '/home/group4/ros2_ws/build/teleop_leo/install.log'
+[2.288s] Invoked command in '/home/group4/ros2_ws/src/teleop_leo' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/teleop_leo/prefix_override:/home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/teleop_leo build --build-base /home/group4/ros2_ws/build/teleop_leo/build install --record /home/group4/ros2_ws/build/teleop_leo/install.log --single-version-externally-managed install_data

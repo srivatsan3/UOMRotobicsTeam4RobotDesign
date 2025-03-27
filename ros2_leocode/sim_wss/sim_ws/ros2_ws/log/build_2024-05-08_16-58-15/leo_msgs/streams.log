@@ -1,0 +1,24 @@
+[0.088s] Invoking command in '/home/group4/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16
+[1.284s] [  1%] Built target leo_msgs__cpp
+[1.285s] [ 12%] Built target leo_msgs__rosidl_generator_c
+[1.285s] [ 12%] Built target ament_cmake_python_copy_leo_msgs
+[1.286s] [ 23%] Built target leo_msgs__rosidl_typesupport_introspection_cpp
+[1.286s] [ 34%] Built target leo_msgs__rosidl_typesupport_fastrtps_cpp
+[1.286s] [ 46%] Built target leo_msgs__rosidl_typesupport_cpp
+[1.286s] [ 63%] Built target leo_msgs__rosidl_typesupport_c
+[1.287s] [ 68%] Built target leo_msgs__rosidl_typesupport_introspection_c
+[1.287s] [ 79%] Built target leo_msgs__rosidl_typesupport_fastrtps_c
+[1.287s] [ 79%] Built target leo_msgs
+[1.288s] [ 80%] Built target leo_msgs__py
+[1.288s] [ 90%] Built target leo_msgs__rosidl_generator_py
+[1.288s] [ 93%] Built target leo_msgs__rosidl_typesupport_c__pyext
+[1.288s] [ 96%] Built target leo_msgs__rosidl_typesupport_introspection_c__pyext
+[1.288s] [100%] Built target leo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.288s] running egg_info
+[1.288s] writing leo_msgs.egg-info/PKG-INFO
+[1.288s] writing dependency_links to leo_msgs.egg-info/dependency_links.txt
+[1.288s] writing top-level names to leo_msgs.egg-info/top_level.txt
+[1.288s] reading manifest file 'leo_msgs.egg-info/SOURCES.txt'
+[1.289s] writing manifest file 'leo_msgs.egg-info/SOURCES.txt'
+[1.289s] [100%] Built target ament_cmake_python_build_leo_msgs_egg
+[1.305s] Invoked command in '/home/group4/ros2_ws/build/leo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16

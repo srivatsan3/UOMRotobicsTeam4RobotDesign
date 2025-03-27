@@ -1,0 +1,4 @@
+Invoking command in '/home/group4/ros2_ws/build/gazebo_models': /usr/bin/cmake /home/group4/ros2_ws/gazebo_models -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/gazebo_models
+Invoked command in '/home/group4/ros2_ws/build/gazebo_models' returned '0': /usr/bin/cmake /home/group4/ros2_ws/gazebo_models -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/gazebo_models
+Invoking command in '/home/group4/ros2_ws/build/gazebo_models': /usr/bin/cmake --build /home/group4/ros2_ws/build/gazebo_models -- -j16 -l16
+Invoked command in '/home/group4/ros2_ws/build/gazebo_models' returned '2': /usr/bin/cmake --build /home/group4/ros2_ws/build/gazebo_models -- -j16 -l16

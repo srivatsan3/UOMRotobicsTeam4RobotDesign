@@ -1,0 +1,23 @@
+[0.075s] Invoking command in '/home/group4/ros2_ws/build/leo_gz_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_gz_plugins -- -j16 -l16
+[0.931s] [100%] Built target leo_gz_differential_plugin
+[0.945s] Invoked command in '/home/group4/ros2_ws/build/leo_gz_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_gz_plugins -- -j16 -l16
+[0.994s] Invoking command in '/home/group4/ros2_ws/build/leo_gz_plugins': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/leo_gz_plugins
+[1.015s] -- Install configuration: ""
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/lib/libleo_gz_differential_plugin.so
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/environment/gz_sim_system_plugin_path.dsv
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/ament_index/resource_index/package_run_dependencies/leo_gz_plugins
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/ament_index/resource_index/parent_prefix_path/leo_gz_plugins
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/environment/ament_prefix_path.sh
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/environment/ament_prefix_path.dsv
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/environment/path.sh
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/environment/path.dsv
+[1.016s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/local_setup.bash
+[1.017s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/local_setup.sh
+[1.017s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/local_setup.zsh
+[1.018s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/local_setup.dsv
+[1.018s] -- Installing: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/package.dsv
+[1.018s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/ament_index/resource_index/packages/leo_gz_plugins
+[1.018s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/cmake/leo_gz_pluginsConfig.cmake
+[1.018s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/cmake/leo_gz_pluginsConfig-version.cmake
+[1.019s] -- Up-to-date: /home/group4/ros2_ws/install/leo_gz_plugins/share/leo_gz_plugins/package.xml
+[1.061s] Invoked command in '/home/group4/ros2_ws/build/leo_gz_plugins' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/leo_gz_plugins

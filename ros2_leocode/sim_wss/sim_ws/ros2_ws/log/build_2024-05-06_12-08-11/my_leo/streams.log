@@ -1,0 +1,19 @@
+[1.284s] Invoking command in '/home/group4/ros2_ws/src/my_leo': PYTHONPATH=/home/group4/ros2_ws/build/my_leo/prefix_override:/home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_leo build --build-base /home/group4/ros2_ws/build/my_leo/build install --record /home/group4/ros2_ws/build/my_leo/install.log --single-version-externally-managed install_data
+[1.474s] running egg_info
+[1.475s] writing ../../build/my_leo/my_leo.egg-info/PKG-INFO
+[1.475s] writing dependency_links to ../../build/my_leo/my_leo.egg-info/dependency_links.txt
+[1.475s] writing entry points to ../../build/my_leo/my_leo.egg-info/entry_points.txt
+[1.475s] writing requirements to ../../build/my_leo/my_leo.egg-info/requires.txt
+[1.475s] writing top-level names to ../../build/my_leo/my_leo.egg-info/top_level.txt
+[1.476s] reading manifest file '../../build/my_leo/my_leo.egg-info/SOURCES.txt'
+[1.477s] writing manifest file '../../build/my_leo/my_leo.egg-info/SOURCES.txt'
+[1.477s] running build
+[1.477s] running build_py
+[1.477s] running install
+[1.478s] running install_lib
+[1.479s] running install_data
+[1.479s] running install_egg_info
+[1.481s] removing '/home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.481s] Copying ../../build/my_leo/my_leo.egg-info to /home/group4/ros2_ws/install/my_leo/lib/python3.10/site-packages/my_leo-0.0.0-py3.10.egg-info
+[1.482s] running install_scripts
+[1.496s] writing list of installed files to '/home/group4/ros2_ws/build/my_leo/install.log'

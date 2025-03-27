@@ -1,0 +1,31 @@
+[35m[1mConsolidate compiler generated dependencies of target rplidar_client[0m
+[35m[1mConsolidate compiler generated dependencies of target rplidar_node[0m
+[35m[1mConsolidate compiler generated dependencies of target rplidar_composition[0m
+[  5%] Built target rplidar_client
+[ 52%] Built target rplidar_node
+[100%] Built target rplidar_composition
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m12_launch.py
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m12_launch.py
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/rviz/rplidar_ros.rviz
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_node
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_composition
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_client
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/ament_index/resource_index/package_run_dependencies/rplidar_ros
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/ament_index/resource_index/parent_prefix_path/rplidar_ros
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.sh
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.dsv
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/environment/path.sh
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/environment/path.dsv
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/local_setup.bash
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/local_setup.sh
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/local_setup.zsh
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/local_setup.dsv
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/package.dsv
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/ament_index/resource_index/packages/rplidar_ros
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig.cmake
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig-version.cmake
+-- Symlinking: /home/group4/ros2_ws/install/rplidar_ros/share/rplidar_ros/package.xml

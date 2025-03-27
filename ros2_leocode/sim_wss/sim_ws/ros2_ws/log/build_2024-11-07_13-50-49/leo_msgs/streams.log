@@ -1,0 +1,10 @@
+[0.057s] Invoking command in '/home/group4/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/leo_gz_worlds:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16
+[1.211s] [35m[1mConsolidate compiler generated dependencies of target leo_msgs__rosidl_generator_c[0m
+[1.211s] [  1%] Built target leo_msgs__cpp
+[1.212s] [ 12%] Built target leo_msgs__rosidl_generator_c
+[1.212s] failed to create symbolic link '/home/group4/ros2_ws/build/leo_msgs/ament_cmake_python/leo_msgs/leo_msgs' because existing path cannot be removed: Is a directory
+[1.213s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_leo_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_leo_msgs] Error 1
+[1.213s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_leo_msgs.dir/all] Error 2
+[1.214s] gmake[1]: *** Waiting for unfinished jobs....
+[1.214s] gmake: *** [Makefile:146: all] Error 2
+[1.738s] Invoked command in '/home/group4/ros2_ws/build/leo_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/leo_gz_worlds:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16

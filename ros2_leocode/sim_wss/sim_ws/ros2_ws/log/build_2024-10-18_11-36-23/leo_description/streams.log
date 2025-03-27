@@ -1,0 +1,47 @@
+[0.053s] Invoking command in '/home/group4/ros2_ws/build/leo_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/group4/ros2_ws/src/leo_common-ros2/leo_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/leo_description
+[0.765s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.765s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.765s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.765s] -- Added test 'lint_cmake' to check CMake code style
+[0.765s] -- Added test 'xmllint' to check XML markup files
+[0.765s] -- Configuring done
+[0.765s] -- Generating done
+[0.766s] -- Build files have been written to: /home/group4/ros2_ws/build/leo_description
+[1.073s] Invoked command in '/home/group4/ros2_ws/build/leo_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/group4/ros2_ws/src/leo_common-ros2/leo_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/leo_description
+[1.074s] Invoking command in '/home/group4/ros2_ws/build/leo_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_description -- -j16 -l16
+[1.115s] Invoked command in '/home/group4/ros2_ws/build/leo_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_description -- -j16 -l16
+[1.146s] Invoking command in '/home/group4/ros2_ws/build/leo_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/leo_description
+[1.155s] -- Install configuration: ""
+[1.157s] -- Execute custom install script
+[1.157s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/launch/state_publisher.launch.xml
+[1.167s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Antenna.dae
+[1.176s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Chassis.dae
+[1.187s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Chassis_outline.stl
+[1.198s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Mecanum_wheel_outline.stl
+[1.206s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Rocker.dae
+[1.214s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Rocker_outline.stl
+[1.222s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/WheelA.dae
+[1.233s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/WheelB.dae
+[1.243s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/WheelMecanumA.dae
+[1.251s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/WheelMecanumB.dae
+[1.260s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/models/Wheel_outline.stl
+[1.269s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/urdf/leo.urdf.xacro
+[1.276s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/urdf/leo_sim.urdf.xacro
+[1.285s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/urdf/macros.xacro
+[1.293s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/environment/gz_sim_resource_path.dsv
+[1.301s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/ament_index/resource_index/package_run_dependencies/leo_description
+[1.310s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/ament_index/resource_index/parent_prefix_path/leo_description
+[1.320s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/environment/ament_prefix_path.sh
+[1.331s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/environment/ament_prefix_path.dsv
+[1.339s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/environment/path.sh
+[1.346s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/environment/path.dsv
+[1.353s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/local_setup.bash
+[1.360s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/local_setup.sh
+[1.367s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/local_setup.zsh
+[1.375s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/local_setup.dsv
+[1.384s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/package.dsv
+[1.393s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/ament_index/resource_index/packages/leo_description
+[1.400s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/cmake/leo_descriptionConfig.cmake
+[1.409s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/cmake/leo_descriptionConfig-version.cmake
+[1.420s] -- Symlinking: /home/group4/ros2_ws/install/leo_description/share/leo_description/package.xml
+[1.434s] Invoked command in '/home/group4/ros2_ws/build/leo_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/leo_description

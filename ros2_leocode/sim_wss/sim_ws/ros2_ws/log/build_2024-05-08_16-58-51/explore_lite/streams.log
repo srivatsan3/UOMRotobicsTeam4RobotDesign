@@ -1,0 +1,36 @@
+[0.306s] Invoking command in '/home/group4/ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/explore_lite -- -j16 -l16
+[0.970s] [ 20%] Built target gtest
+[0.970s] [ 40%] Built target gtest_main
+[0.970s] [ 80%] Built target explore
+[0.970s] [100%] Built target test_explore
+[1.207s] Invoked command in '/home/group4/ros2_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/explore_lite -- -j16 -l16
+[1.263s] Invoking command in '/home/group4/ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/explore_lite
+[1.292s] -- Install configuration: ""
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/include/explore/
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/include/explore//costmap_tools.h
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/include/explore//explore.h
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/include/explore//frontier_search.h
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/include/explore//costmap_client.h
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/config
+[1.292s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/config/params.yaml
+[1.293s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/config/params_costmap.yaml
+[1.293s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/launch
+[1.293s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/launch/explore.launch.py
+[1.293s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/lib/explore_lite/explore
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/ament_index/resource_index/package_run_dependencies/explore_lite
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/ament_index/resource_index/parent_prefix_path/explore_lite
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/environment/ament_prefix_path.sh
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/environment/ament_prefix_path.dsv
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/environment/path.sh
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/environment/path.dsv
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/local_setup.bash
+[1.295s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/local_setup.sh
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/local_setup.zsh
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/local_setup.dsv
+[1.296s] -- Installing: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/package.dsv
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/ament_index/resource_index/packages/explore_lite
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/cmake/explore_liteConfig.cmake
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/cmake/explore_liteConfig-version.cmake
+[1.296s] -- Up-to-date: /home/group4/ros2_ws/install/explore_lite/share/explore_lite/package.xml
+[1.325s] Invoked command in '/home/group4/ros2_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/rplidar_ros:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/group4/ros2_ws/build/explore_lite

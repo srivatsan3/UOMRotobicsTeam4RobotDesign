@@ -1,0 +1,8 @@
+/home/group4/ros2_ws/build/leo/CMakeFiles/uninstall.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/leo_uninstall.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/test.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/edit_cache.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/rebuild_cache.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/list_install_components.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/install.dir
+/home/group4/ros2_ws/build/leo/CMakeFiles/install/local.dir

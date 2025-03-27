@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/teleop_leo/teleop_leo.egg-info
+writing ../../build/teleop_leo/teleop_leo.egg-info/PKG-INFO
+writing dependency_links to ../../build/teleop_leo/teleop_leo.egg-info/dependency_links.txt
+writing entry points to ../../build/teleop_leo/teleop_leo.egg-info/entry_points.txt
+writing requirements to ../../build/teleop_leo/teleop_leo.egg-info/requires.txt
+writing top-level names to ../../build/teleop_leo/teleop_leo.egg-info/top_level.txt
+writing manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+reading manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+writing manifest file '../../build/teleop_leo/teleop_leo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/group4/ros2_ws/build/teleop_leo/build
+creating /home/group4/ros2_ws/build/teleop_leo/build/lib
+creating /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo
+copying teleop_leo/__init__.py -> /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo
+running install
+running install_lib
+creating /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo
+copying /home/group4/ros2_ws/build/teleop_leo/build/lib/teleop_leo/__init__.py -> /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo
+byte-compiling /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index
+creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index
+creating /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index/packages
+copying resource/teleop_leo -> /home/group4/ros2_ws/install/teleop_leo/share/ament_index/resource_index/packages
+copying package.xml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+copying launch/slam_leo.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+copying launch/laser.launch.xml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+copying launch/teleop_key.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+copying launch/teleop_joy.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+copying launch/rviz_leo.launch.py -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/launch
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/urdf
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/rviz
+copying rviz/robot.rviz -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/rviz
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/worlds
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/models
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/config
+copying config/joy_config.yaml -> /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/config
+creating /home/group4/ros2_ws/install/teleop_leo/share/teleop_leo/maps
+running install_egg_info
+Copying ../../build/teleop_leo/teleop_leo.egg-info to /home/group4/ros2_ws/install/teleop_leo/lib/python3.10/site-packages/teleop_leo-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/group4/ros2_ws/build/teleop_leo/install.log'

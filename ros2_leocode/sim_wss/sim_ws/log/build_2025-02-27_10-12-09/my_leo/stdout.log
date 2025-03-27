@@ -1,0 +1,74 @@
+running develop
+running egg_info
+creating my_leo.egg-info
+writing my_leo.egg-info/PKG-INFO
+writing dependency_links to my_leo.egg-info/dependency_links.txt
+writing requirements to my_leo.egg-info/requires.txt
+writing top-level names to my_leo.egg-info/top_level.txt
+writing manifest file 'my_leo.egg-info/SOURCES.txt'
+reading manifest file 'my_leo.egg-info/SOURCES.txt'
+writing manifest file 'my_leo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/lib/python3.10/site-packages/my-leo.egg-link (link to .)
+
+Installed /home/mscrobotics2425laptop28/sim_ws/build/my_leo
+running symlink_data
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/ament_index/resource_index/packages
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/resource/my_leo -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/ament_index/resource_index/packages
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/package.xml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/launch
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/launch/rviz_leo.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/launch
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/launch/my_leo.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/launch
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/launch/navigation.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/launch
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/launch/teleop_joy.launch.py -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/launch
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/urdf/leo_sim.urdf.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/urdf/laser.urdf.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/urdf/macros.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/urdf
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/urdf/arm.urdf.xacro -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/urdf
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/behavior_tree_xml
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/behavior_tree_xml/bt_example_0.xml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/behavior_tree_xml
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/rviz
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/rviz/slam.rviz -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/rviz
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/rviz/nav2.rviz -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/rviz
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/rviz/robot.rviz -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/rviz
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/tb3.sdf -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/marsyard2022.sdf -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/zxj.sdf -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/meshes/wall.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/meshes/starting_pen.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/worlds/meshes/hexagon.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/worlds
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_5_wrist.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_8_gripper_bar.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/WheelMecanumA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Chassis_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_2_shoulder.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/WheelA.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Chassis.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_1_base.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/WheelB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_4_forearm.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Rocker.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_7_gripper_prop.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Mecanum_wheel_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Rocker_outline.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_6_gripper.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_10_ar_tag.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_3_upper_arm.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/WheelMecanumB.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/Antenna.dae -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/models/px150_9_gripper_finger.stl -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/models
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/bt_nav.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/joy_config.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/ekf.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/params.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/simple_smoother.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/planner.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/controller.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/config/twist_mux.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/config
+creating /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/maps
+symbolically linking /home/mscrobotics2425laptop28/sim_ws/build/my_leo/maps/sim_map.yaml -> /home/mscrobotics2425laptop28/sim_ws/install/my_leo/share/my_leo/maps

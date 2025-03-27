@@ -1,0 +1,1 @@
+/home/group4/ros2_ws/build/leo_gz_plugins/ament_cmake_environment_hooks/local_setup.zsh

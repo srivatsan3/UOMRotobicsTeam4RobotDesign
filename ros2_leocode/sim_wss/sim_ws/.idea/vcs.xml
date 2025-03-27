@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ros2_ws/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ros2_ws/src/m-explore-ros2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ros2_ws/src/my_leo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ros2_ws/src/rplidar_ros" vcs="Git" />
+  </component>
+</project>

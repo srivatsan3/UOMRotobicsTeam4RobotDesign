@@ -1,0 +1,52 @@
+[1.884s] Invoking command in '/home/group4/ros2_ws/src/gz_example_robot_description': PYTHONPATH=/home/group4/ros2_ws/build/gz_example_robot_description/prefix_override:/home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gz_example_robot_description build --build-base /home/group4/ros2_ws/build/gz_example_robot_description/build install --record /home/group4/ros2_ws/build/gz_example_robot_description/install.log --single-version-externally-managed install_data
+[2.565s] running egg_info
+[2.582s] creating ../../build/gz_example_robot_description/gz_example_robot_description.egg-info
+[2.583s] writing ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/PKG-INFO
+[2.583s] writing dependency_links to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/dependency_links.txt
+[2.584s] writing entry points to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/entry_points.txt
+[2.585s] writing requirements to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/requires.txt
+[2.585s] writing top-level names to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/top_level.txt
+[2.586s] writing manifest file '../../build/gz_example_robot_description/gz_example_robot_description.egg-info/SOURCES.txt'
+[2.588s] reading manifest file '../../build/gz_example_robot_description/gz_example_robot_description.egg-info/SOURCES.txt'
+[2.590s] writing manifest file '../../build/gz_example_robot_description/gz_example_robot_description.egg-info/SOURCES.txt'
+[2.591s] running build
+[2.591s] running build_py
+[2.591s] creating /home/group4/ros2_ws/build/gz_example_robot_description/build
+[2.591s] creating /home/group4/ros2_ws/build/gz_example_robot_description/build/lib
+[2.591s] creating /home/group4/ros2_ws/build/gz_example_robot_description/build/lib/gz_example_robot_description
+[2.592s] copying gz_example_robot_description/__init__.py -> /home/group4/ros2_ws/build/gz_example_robot_description/build/lib/gz_example_robot_description
+[2.592s] running install
+[2.595s] running install_lib
+[2.596s] creating /home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description
+[2.596s] copying /home/group4/ros2_ws/build/gz_example_robot_description/build/lib/gz_example_robot_description/__init__.py -> /home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description
+[2.598s] byte-compiling /home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description/__init__.py to __init__.cpython-310.pyc
+[2.598s] running install_data
+[2.599s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/ament_index
+[2.601s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/ament_index/resource_index
+[2.602s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/ament_index/resource_index/packages
+[2.602s] copying resource/gz_example_robot_description -> /home/group4/ros2_ws/install/gz_example_robot_description/share/ament_index/resource_index/packages
+[2.602s] copying package.xml -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description
+[2.602s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/launch
+[2.602s] copying launch/view_model.launch.py -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/launch
+[2.603s] copying launch/sim_robot.launch.py -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/launch
+[2.603s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/urdf
+[2.603s] copying urdf/diff_drive.urdf -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/urdf
+[2.606s] copying urdf/diff_drive_simulation copy.urdf -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/urdf
+[2.607s] copying urdf/diff_drive_simulation.urdf.xacro -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/urdf
+[2.611s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/rviz
+[2.611s] copying rviz/nav2.rviz -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/rviz
+[2.611s] copying rviz/view_model.rviz -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/rviz
+[2.611s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/worlds
+[2.611s] copying worlds/tb3.sdf -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/worlds
+[2.612s] copying worlds/gemstone.sdf -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/worlds
+[2.612s] copying worlds/meshes/wall.dae -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/worlds
+[2.612s] copying worlds/meshes/hexagon.dae -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/worlds
+[2.612s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/config
+[2.613s] copying config/diff_drive_control.yaml -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/config
+[2.613s] creating /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/maps
+[2.613s] copying maps/turtlebot3_world.pgm -> /home/group4/ros2_ws/install/gz_example_robot_description/share/gz_example_robot_description/maps
+[2.614s] running install_egg_info
+[2.618s] Copying ../../build/gz_example_robot_description/gz_example_robot_description.egg-info to /home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description-0.0.0-py3.10.egg-info
+[2.622s] running install_scripts
+[2.678s] writing list of installed files to '/home/group4/ros2_ws/build/gz_example_robot_description/install.log'
+[2.752s] Invoked command in '/home/group4/ros2_ws/src/gz_example_robot_description' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/gz_example_robot_description/prefix_override:/home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gz_example_robot_description build --build-base /home/group4/ros2_ws/build/gz_example_robot_description/build install --record /home/group4/ros2_ws/build/gz_example_robot_description/install.log --single-version-externally-managed install_data

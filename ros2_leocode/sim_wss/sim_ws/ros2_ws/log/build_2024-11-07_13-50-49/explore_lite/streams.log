@@ -1,0 +1,19 @@
+[0.219s] Invoking command in '/home/group4/ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/leo_gz_worlds:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/explore_lite -- -j16 -l16
+[1.202s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[1.202s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[1.202s] [35m[1mConsolidate compiler generated dependencies of target explore[0m
+[1.202s] [ 10%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[1.202s] [ 20%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[1.202s] [ 30%] [32mBuilding CXX object CMakeFiles/explore.dir/src/costmap_client.cpp.o[0m
+[1.202s] [ 40%] [32mBuilding CXX object CMakeFiles/explore.dir/src/explore.cpp.o[0m
+[1.202s] [ 50%] [32mBuilding CXX object CMakeFiles/explore.dir/src/frontier_search.cpp.o[0m
+[1.202s] [ 60%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[1.202s] [ 60%] Built target gtest_main
+[4.933s] [ 70%] [32m[1mLinking CXX static library libgtest.a[0m
+[5.006s] [ 70%] Built target gtest
+[5.023s] [35m[1mConsolidate compiler generated dependencies of target test_explore[0m
+[5.042s] [ 80%] [32mBuilding CXX object CMakeFiles/test_explore.dir/test/test_explore.cpp.o[0m
+[5.976s] [ 90%] [32m[1mLinking CXX executable test_explore[0m
+[6.933s] [ 90%] Built target test_explore
+[11.918s] [100%] [32m[1mLinking CXX executable explore[0m
+[13.028s] [100%] Built target explore

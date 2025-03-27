@@ -1,0 +1,1 @@
+/home/mscrobotics2425laptop28/sim_ws/ros2_ws/src/rplidar_ros/launch/rplidar_a2m12_launch.py

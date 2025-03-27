@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/group4/ros2_ws/src/two_wheeled_robot/two_wheeled_robot/config": No
+  such file or directory.
+
+[0m

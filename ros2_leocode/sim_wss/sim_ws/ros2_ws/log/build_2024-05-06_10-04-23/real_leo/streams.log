@@ -1,0 +1,71 @@
+[1.788s] Invoking command in '/home/group4/ros2_ws/src/real_leo': PYTHONPATH=/home/group4/ros2_ws/build/real_leo/prefix_override:/home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/real_leo build --build-base /home/group4/ros2_ws/build/real_leo/build install --record /home/group4/ros2_ws/build/real_leo/install.log --single-version-externally-managed install_data
+[2.487s] running egg_info
+[2.488s] creating ../../build/real_leo/real_leo.egg-info
+[2.489s] writing ../../build/real_leo/real_leo.egg-info/PKG-INFO
+[2.490s] writing dependency_links to ../../build/real_leo/real_leo.egg-info/dependency_links.txt
+[2.490s] writing entry points to ../../build/real_leo/real_leo.egg-info/entry_points.txt
+[2.491s] writing requirements to ../../build/real_leo/real_leo.egg-info/requires.txt
+[2.491s] writing top-level names to ../../build/real_leo/real_leo.egg-info/top_level.txt
+[2.492s] writing manifest file '../../build/real_leo/real_leo.egg-info/SOURCES.txt'
+[2.495s] reading manifest file '../../build/real_leo/real_leo.egg-info/SOURCES.txt'
+[2.496s] writing manifest file '../../build/real_leo/real_leo.egg-info/SOURCES.txt'
+[2.497s] running build
+[2.497s] running build_py
+[2.497s] creating /home/group4/ros2_ws/build/real_leo/build
+[2.497s] creating /home/group4/ros2_ws/build/real_leo/build/lib
+[2.498s] creating /home/group4/ros2_ws/build/real_leo/build/lib/real_leo
+[2.498s] copying real_leo/__init__.py -> /home/group4/ros2_ws/build/real_leo/build/lib/real_leo
+[2.499s] running install
+[2.499s] running install_lib
+[2.500s] creating /home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo
+[2.500s] copying /home/group4/ros2_ws/build/real_leo/build/lib/real_leo/__init__.py -> /home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo
+[2.501s] byte-compiling /home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo/__init__.py to __init__.cpython-310.pyc
+[2.502s] running install_data
+[2.502s] creating /home/group4/ros2_ws/install/real_leo/share/ament_index
+[2.502s] creating /home/group4/ros2_ws/install/real_leo/share/ament_index/resource_index
+[2.502s] creating /home/group4/ros2_ws/install/real_leo/share/ament_index/resource_index/packages
+[2.502s] copying resource/real_leo -> /home/group4/ros2_ws/install/real_leo/share/ament_index/resource_index/packages
+[2.503s] copying package.xml -> /home/group4/ros2_ws/install/real_leo/share/real_leo
+[2.503s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/launch
+[2.503s] copying launch/real_leo.launch.py -> /home/group4/ros2_ws/install/real_leo/share/real_leo/launch
+[2.503s] copying launch/navigation.launch.py -> /home/group4/ros2_ws/install/real_leo/share/real_leo/launch
+[2.503s] copying launch/teleop_joy.launch.py -> /home/group4/ros2_ws/install/real_leo/share/real_leo/launch
+[2.503s] copying launch/rviz_leo.launch.py -> /home/group4/ros2_ws/install/real_leo/share/real_leo/launch
+[2.504s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/urdf
+[2.504s] copying urdf/leo_sim.urdf.xacro -> /home/group4/ros2_ws/install/real_leo/share/real_leo/urdf
+[2.504s] copying urdf/laser.urdf.xacro -> /home/group4/ros2_ws/install/real_leo/share/real_leo/urdf
+[2.504s] copying urdf/macros.xacro -> /home/group4/ros2_ws/install/real_leo/share/real_leo/urdf
+[2.505s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/behavior_tree_xml
+[2.505s] copying behavior_tree_xml/bt_example_0.xml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/behavior_tree_xml
+[2.505s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/rviz
+[2.505s] copying rviz/slam.rviz -> /home/group4/ros2_ws/install/real_leo/share/real_leo/rviz
+[2.506s] copying rviz/robot.rviz -> /home/group4/ros2_ws/install/real_leo/share/real_leo/rviz
+[2.506s] copying rviz/robot1.rviz -> /home/group4/ros2_ws/install/real_leo/share/real_leo/rviz
+[2.506s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/worlds
+[2.507s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.507s] copying models/WheelMecanumA.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.521s] copying models/Rocker_outline.stl -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.521s] copying models/Mecanum_wheel_outline.stl -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.521s] copying models/Antenna.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.522s] copying models/WheelB.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.526s] copying models/Chassis.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.552s] copying models/WheelMecanumB.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.573s] copying models/Wheel_outline.stl -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.579s] copying models/Rocker.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.584s] copying models/Chassis_outline.stl -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.587s] copying models/WheelA.dae -> /home/group4/ros2_ws/install/real_leo/share/real_leo/models
+[2.595s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.595s] copying config/params.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.595s] copying config/ekf_node.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.599s] copying config/controller.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.599s] copying config/bt_nav.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.600s] copying config/simple_smoother.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.600s] copying config/twist_mux.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.600s] copying config/joy_config.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.600s] copying config/planner.yaml -> /home/group4/ros2_ws/install/real_leo/share/real_leo/config
+[2.601s] creating /home/group4/ros2_ws/install/real_leo/share/real_leo/maps
+[2.601s] running install_egg_info
+[2.604s] Copying ../../build/real_leo/real_leo.egg-info to /home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages/real_leo-0.0.0-py3.10.egg-info
+[2.605s] running install_scripts
+[2.651s] writing list of installed files to '/home/group4/ros2_ws/build/real_leo/install.log'
+[2.691s] Invoked command in '/home/group4/ros2_ws/src/real_leo' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/real_leo/prefix_override:/home/group4/ros2_ws/install/real_leo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/real_leo build --build-base /home/group4/ros2_ws/build/real_leo/build install --record /home/group4/ros2_ws/build/real_leo/install.log --single-version-externally-managed install_data

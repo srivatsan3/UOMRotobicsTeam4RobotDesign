@@ -1,0 +1,20 @@
+[1.237s] Invoking command in '/home/group4/ros2_ws/src/gz_example_robot_description': PYTHONPATH=/home/group4/ros2_ws/build/gz_example_robot_description/prefix_override:/home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gz_example_robot_description build --build-base /home/group4/ros2_ws/build/gz_example_robot_description/build install --record /home/group4/ros2_ws/build/gz_example_robot_description/install.log --single-version-externally-managed install_data
+[1.409s] running egg_info
+[1.410s] writing ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/PKG-INFO
+[1.410s] writing dependency_links to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/dependency_links.txt
+[1.410s] writing entry points to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/entry_points.txt
+[1.410s] writing requirements to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/requires.txt
+[1.410s] writing top-level names to ../../build/gz_example_robot_description/gz_example_robot_description.egg-info/top_level.txt
+[1.411s] reading manifest file '../../build/gz_example_robot_description/gz_example_robot_description.egg-info/SOURCES.txt'
+[1.412s] writing manifest file '../../build/gz_example_robot_description/gz_example_robot_description.egg-info/SOURCES.txt'
+[1.412s] running build
+[1.412s] running build_py
+[1.413s] running install
+[1.413s] running install_lib
+[1.415s] running install_data
+[1.415s] running install_egg_info
+[1.419s] removing '/home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[1.419s] Copying ../../build/gz_example_robot_description/gz_example_robot_description.egg-info to /home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages/gz_example_robot_description-0.0.0-py3.10.egg-info
+[1.420s] running install_scripts
+[1.437s] writing list of installed files to '/home/group4/ros2_ws/build/gz_example_robot_description/install.log'
+[1.458s] Invoked command in '/home/group4/ros2_ws/src/gz_example_robot_description' returned '0': PYTHONPATH=/home/group4/ros2_ws/build/gz_example_robot_description/prefix_override:/home/group4/ros2_ws/install/gz_example_robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gz_example_robot_description build --build-base /home/group4/ros2_ws/build/gz_example_robot_description/build install --record /home/group4/ros2_ws/build/gz_example_robot_description/install.log --single-version-externally-managed install_data

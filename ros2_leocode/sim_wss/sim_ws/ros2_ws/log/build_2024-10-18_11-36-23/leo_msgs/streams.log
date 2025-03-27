@@ -1,0 +1,38 @@
+[0.051s] Invoking command in '/home/group4/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/group4/ros2_ws/src/leo_common-ros2/leo_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/leo_msgs
+[0.762s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.762s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.762s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.762s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.762s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.762s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.762s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.762s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.763s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.948s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.967s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.994s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.994s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.994s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.026s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.033s] -- Added test 'lint_cmake' to check CMake code style
+[1.033s] -- Added test 'xmllint' to check XML markup files
+[1.034s] -- Configuring done
+[1.083s] -- Generating done
+[1.087s] -- Build files have been written to: /home/group4/ros2_ws/build/leo_msgs
+[1.093s] Invoked command in '/home/group4/ros2_ws/build/leo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/group4/ros2_ws/src/leo_common-ros2/leo_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/group4/ros2_ws/install/leo_msgs
+[1.095s] Invoking command in '/home/group4/ros2_ws/build/leo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16
+[1.148s] [35m[1mConsolidate compiler generated dependencies of target leo_msgs__rosidl_generator_c[0m
+[1.149s] failed to create symbolic link '/home/group4/ros2_ws/build/leo_msgs/ament_cmake_python/leo_msgs/leo_msgs' because existing path cannot be removed: Is a directory
+[1.149s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_leo_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_leo_msgs] Error 1
+[1.149s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_leo_msgs.dir/all] Error 2
+[1.149s] gmake[1]: *** Waiting for unfinished jobs....
+[1.150s] [  1%] Built target leo_msgs__cpp
+[1.160s] [  3%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_states__functions.c.o[0m
+[1.160s] [  4%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_odom_mecanum__functions.c.o[0m
+[1.161s] [  6%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/wheel_odom__functions.c.o[0m
+[1.163s] [  7%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/msg/detail/imu__functions.c.o[0m
+[1.163s] [  9%] [32mBuilding C object CMakeFiles/leo_msgs__rosidl_generator_c.dir/rosidl_generator_c/leo_msgs/srv/detail/set_imu_calibration__functions.c.o[0m
+[1.251s] [ 11%] [32m[1mLinking C shared library libleo_msgs__rosidl_generator_c.so[0m
+[1.299s] [ 12%] Built target leo_msgs__rosidl_generator_c
+[1.301s] gmake: *** [Makefile:146: all] Error 2
+[1.302s] Invoked command in '/home/group4/ros2_ws/build/leo_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/group4/ros2_ws/install/teleop_leo:/home/group4/ros2_ws/install/real_leo:/home/group4/ros2_ws/install/my_leo:/home/group4/ros2_ws/install/gz_example_robot_description:/home/group4/ros2_ws/install/bt_demos:/home/group4/ros2_ws/install/autonomous_exploration:/home/group4/interbotix_ws/install/interbotix_xs_modules:/home/group4/interbotix_ws/install/interbotix_perception_modules:/home/group4/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/group4/ros2_ws/build/leo_msgs -- -j16 -l16
