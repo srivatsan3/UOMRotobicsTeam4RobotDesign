@@ -1,0 +1,3 @@
+[console_scripts]
+yolox_inference_node = yolox_pose_estimator.estimator_node:main
+

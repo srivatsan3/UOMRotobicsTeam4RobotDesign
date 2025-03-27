@@ -1,0 +1,21 @@
+[0.712s] Invoking command in '/home/mscrobotics2425laptop5/yolox_pose_estimator': PYTHONPATH=/home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/yolox_pose_estimator build --build-base /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/build install --record /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/install.log --single-version-externally-managed install_data
+[0.991s] running egg_info
+[0.992s] writing build/yolox_pose_estimator/yolox_pose_estimator.egg-info/PKG-INFO
+[0.993s] writing dependency_links to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/dependency_links.txt
+[0.994s] writing entry points to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/entry_points.txt
+[0.994s] writing requirements to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/requires.txt
+[0.995s] writing top-level names to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/top_level.txt
+[0.999s] reading manifest file 'build/yolox_pose_estimator/yolox_pose_estimator.egg-info/SOURCES.txt'
+[1.002s] writing manifest file 'build/yolox_pose_estimator/yolox_pose_estimator.egg-info/SOURCES.txt'
+[1.002s] running build
+[1.002s] running build_py
+[1.003s] running install
+[1.004s] running install_lib
+[1.009s] running install_data
+[1.009s] running install_egg_info
+[1.013s] removing '/home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator-0.0.0-py3.10.egg-info' (and everything under it)
+[1.014s] Copying build/yolox_pose_estimator/yolox_pose_estimator.egg-info to /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator-0.0.0-py3.10.egg-info
+[1.016s] running install_scripts
+[1.060s] Installing yolox_inference_node script to /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/yolox_pose_estimator
+[1.061s] writing list of installed files to '/home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/install.log'
+[1.089s] Invoked command in '/home/mscrobotics2425laptop5/yolox_pose_estimator' returned '0': PYTHONPATH=/home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/yolox_pose_estimator build --build-base /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/build install --record /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+running egg_info
+writing build/yolox_pose_estimator/yolox_pose_estimator.egg-info/PKG-INFO
+writing dependency_links to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/dependency_links.txt
+writing entry points to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/entry_points.txt
+writing requirements to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/requires.txt
+writing top-level names to build/yolox_pose_estimator/yolox_pose_estimator.egg-info/top_level.txt
+reading manifest file 'build/yolox_pose_estimator/yolox_pose_estimator.egg-info/SOURCES.txt'
+writing manifest file 'build/yolox_pose_estimator/yolox_pose_estimator.egg-info/SOURCES.txt'
+running build
+running build_py
+copying yolox_pose_estimator/estimator_node.py -> /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/build/lib/yolox_pose_estimator
+running install
+running install_lib
+copying /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/build/lib/yolox_pose_estimator/estimator_node.py -> /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator
+byte-compiling /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator/estimator_node.py to estimator_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/yolox_pose_estimator/yolox_pose_estimator.egg-info to /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator-0.0.0-py3.10.egg-info
+running install_scripts
+Installing yolox_inference_node script to /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/yolox_pose_estimator
+writing list of installed files to '/home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/install.log'

@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing yolox_pose_estimator.egg-info/PKG-INFO
+writing dependency_links to yolox_pose_estimator.egg-info/dependency_links.txt
+writing entry points to yolox_pose_estimator.egg-info/entry_points.txt
+writing requirements to yolox_pose_estimator.egg-info/requires.txt
+writing top-level names to yolox_pose_estimator.egg-info/top_level.txt
+reading manifest file 'yolox_pose_estimator.egg-info/SOURCES.txt'
+writing manifest file 'yolox_pose_estimator.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox-pose-estimator.egg-link (link to .)
+Installing yolox_inference_node script to /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/yolox_pose_estimator
+
+Installed /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator
+running symlink_data
+symbolically linking /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/resource/yolox_pose_estimator -> /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/share/ament_index/resource_index/packages
+symbolically linking /home/mscrobotics2425laptop5/yolox_pose_estimator/build/yolox_pose_estimator/package.xml -> /home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/share/yolox_pose_estimator

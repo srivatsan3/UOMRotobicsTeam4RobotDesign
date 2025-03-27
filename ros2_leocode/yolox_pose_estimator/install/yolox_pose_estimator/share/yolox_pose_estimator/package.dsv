@@ -1,0 +1,6 @@
+source;share/yolox_pose_estimator/hook/pythonpath.ps1
+source;share/yolox_pose_estimator/hook/pythonpath.dsv
+source;share/yolox_pose_estimator/hook/pythonpath.sh
+source;share/yolox_pose_estimator/hook/ament_prefix_path.ps1
+source;share/yolox_pose_estimator/hook/ament_prefix_path.dsv
+source;share/yolox_pose_estimator/hook/ament_prefix_path.sh

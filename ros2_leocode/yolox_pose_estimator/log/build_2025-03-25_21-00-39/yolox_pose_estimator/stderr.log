@@ -1,0 +1,5 @@
+  File "/home/mscrobotics2425laptop5/yolox_pose_estimator/install/yolox_pose_estimator/lib/python3.10/site-packages/yolox_pose_estimator/estimator_node.py", line 101
+    self.get_logger().info(f"output is: {dets}"))
+                                                ^
+SyntaxError: unmatched ')'
+
