@@ -1,0 +1,25 @@
+[0.508s] Invoking command in '/home/mscrobotics2425laptop5/bin_detector': PYTHONPATH=/home/mscrobotics2425laptop5/bin_detector/build/bin_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/bin_detector build --build-base /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/build install --record /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/install.log --single-version-externally-managed install_data
+[0.696s] running egg_info
+[0.696s] writing build/bin_detector/bin_detector.egg-info/PKG-INFO
+[0.696s] writing dependency_links to build/bin_detector/bin_detector.egg-info/dependency_links.txt
+[0.697s] writing entry points to build/bin_detector/bin_detector.egg-info/entry_points.txt
+[0.697s] writing requirements to build/bin_detector/bin_detector.egg-info/requires.txt
+[0.697s] writing top-level names to build/bin_detector/bin_detector.egg-info/top_level.txt
+[0.699s] reading manifest file 'build/bin_detector/bin_detector.egg-info/SOURCES.txt'
+[0.699s] writing manifest file 'build/bin_detector/bin_detector.egg-info/SOURCES.txt'
+[0.699s] running build
+[0.699s] running build_py
+[0.700s] copying bin_detector/test_bin.py -> /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/build/lib/bin_detector
+[0.700s] running install
+[0.700s] running install_lib
+[0.701s] copying /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/build/lib/bin_detector/test_bin.py -> /home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages/bin_detector
+[0.702s] byte-compiling /home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages/bin_detector/test_bin.py to test_bin.cpython-310.pyc
+[0.703s] running install_data
+[0.703s] running install_egg_info
+[0.705s] removing '/home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages/bin_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.705s] Copying build/bin_detector/bin_detector.egg-info to /home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages/bin_detector-0.0.0-py3.10.egg-info
+[0.705s] running install_scripts
+[0.724s] Installing bin_dectection_node script to /home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/bin_detector
+[0.724s] Installing test_dectection_node script to /home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/bin_detector
+[0.725s] writing list of installed files to '/home/mscrobotics2425laptop5/bin_detector/build/bin_detector/install.log'
+[0.750s] Invoked command in '/home/mscrobotics2425laptop5/bin_detector' returned '0': PYTHONPATH=/home/mscrobotics2425laptop5/bin_detector/build/bin_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mscrobotics2425laptop5/bin_detector/install/bin_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/bin_detector build --build-base /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/build install --record /home/mscrobotics2425laptop5/bin_detector/build/bin_detector/install.log --single-version-externally-managed install_data

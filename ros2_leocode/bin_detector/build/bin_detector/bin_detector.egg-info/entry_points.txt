@@ -1,0 +1,4 @@
+[console_scripts]
+bin_dectection_node = bin_detector.bin_detect:main
+test_dectection_node = bin_detector.test_bin:main
+
