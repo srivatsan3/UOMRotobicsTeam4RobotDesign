@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>manip_control</name>
+  <version>0.0.0</version>
+  <description>TODO: Package description</description>
+  <maintainer email="wang.yiting@student.zy.cdut.edu.cn">mscrobotics2425laptop11</maintainer>
+  <license>TODO: License declaration</license>
+
+  <depend>interbotix_xsarm_control</depend>
+  <depend>interbotix_xsarm_description</depend>
+  <depend>interbotix_xsmarm_moveit</depend>
+  <depend>interbotix_ros_xsarms</depend>
+  <depend>geometry_msgs</depend>
+  <depend>interbotix_common_modules</depend>
+  <depend>interbotix_xs_modules</depend>
+  <depend>rclpy</depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
