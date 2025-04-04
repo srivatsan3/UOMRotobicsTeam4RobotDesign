@@ -1,0 +1,35 @@
+running egg_info
+creating ../../../../build/manip_control/manip_control.egg-info
+writing ../../../../build/manip_control/manip_control.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/manip_control/manip_control.egg-info/dependency_links.txt
+writing entry points to ../../../../build/manip_control/manip_control.egg-info/entry_points.txt
+writing requirements to ../../../../build/manip_control/manip_control.egg-info/requires.txt
+writing top-level names to ../../../../build/manip_control/manip_control.egg-info/top_level.txt
+writing manifest file '../../../../build/manip_control/manip_control.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/manip_control/manip_control.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/manip_control/manip_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build
+creating /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib
+creating /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib/manip_control
+copying manip_control/__init__.py -> /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib/manip_control
+copying manip_control/manip_control_node.py -> /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib/manip_control
+running install
+running install_lib
+creating /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control
+copying /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib/manip_control/__init__.py -> /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control
+copying /home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/build/lib/manip_control/manip_control_node.py -> /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control
+byte-compiling /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control/manip_control_node.py to manip_control_node.cpython-310.pyc
+running install_data
+creating /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/share/ament_index
+creating /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/share/ament_index/resource_index
+creating /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/share/ament_index/resource_index/packages
+copying resource/manip_control -> /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/share/manip_control
+running install_egg_info
+Copying ../../../../build/manip_control/manip_control.egg-info to /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/python3.10/site-packages/manip_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing manip_control_node script to /home/mscrobotics2425laptop11/interbotix_ws/install/manip_control/lib/manip_control
+writing list of installed files to '/home/mscrobotics2425laptop11/interbotix_ws/build/manip_control/install.log'

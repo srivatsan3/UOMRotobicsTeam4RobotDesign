@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../../../build/manip_control/manip_control.egg-info/PKG-INFO
+../../../../build/manip_control/manip_control.egg-info/SOURCES.txt
+../../../../build/manip_control/manip_control.egg-info/dependency_links.txt
+../../../../build/manip_control/manip_control.egg-info/entry_points.txt
+../../../../build/manip_control/manip_control.egg-info/requires.txt
+../../../../build/manip_control/manip_control.egg-info/top_level.txt
+../../../../build/manip_control/manip_control.egg-info/zip-safe
+manip_control/__init__.py
+manip_control/manip_control_node.py
+resource/manip_control
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

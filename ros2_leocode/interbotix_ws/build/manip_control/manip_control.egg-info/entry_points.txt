@@ -1,0 +1,3 @@
+[console_scripts]
+manip_control_node = manip_control.manip_control_node:main
+
